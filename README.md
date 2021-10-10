@@ -21,3 +21,4 @@ Disclaimer: we want to keep this listing as inclusive as possible. Listings are 
 ## Solana
 
 * Surging Bulls ([Website](https://www.surgingbulls.com/))
+* Famous Fox Federation ([Website](https://famousfoxes.com/)) ([Solanart](https://solanart.io/collections/famousfoxfederation))
