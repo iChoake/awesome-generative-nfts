@@ -2,6 +2,8 @@
 
 A curated list of awesome animal related Non Fungible Tokens (NFT, ERC721, ERC1155).
 
+Disclaimer: we want to keep this listing as inclusive as possible. Listings are not checked for verification. Do your own research.
+
 ## Ethereum
 
 * Altdoges ([Website](https://www.altdoges.com/)) ([OS](https://opensea.io/collection/altdoges))
