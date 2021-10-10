@@ -14,6 +14,10 @@ Disclaimer: we want to keep this listing as inclusive as possible. Listings are 
 * Rumble Kong League ([OS](https://opensea.io/collection/rumble-kong-league))
 * Wanna Panda ([Website](https://wannapanda.com/)) ([OS](https://opensea.io/collection/wannapandaofficial))
 
+## NEAR
+
+* Crypto Cat ([Paras](https://paras.id/collection/crypto-cat-by-diaxnear)])
+
 ## Solana
 
 * Surging Bulls ([Website](https://www.surgingbulls.com/))
