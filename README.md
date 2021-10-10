@@ -18,6 +18,7 @@ DO YOUR OWN RESEARCH
 * Panda Dynasty ([Website](https://pandadynasty.io/)) ([Opensea](https://opensea.io/collection/pandadynasty))
 * Pixel.Unicorns ([Opensea](https://opensea.io/collection/pixel-unicorns-))
 * Rumble Kong League ([Opensea](https://opensea.io/collection/rumble-kong-league))
+* Stoner Cats ([Website](https://www.stonercats.com/)) ([Opensea](https://opensea.io/collection/stoner-cats-official))
 * Wanna Panda ([Website](https://wannapanda.com/)) ([Opensea](https://opensea.io/collection/wannapandaofficial))
 * Whatty Club ([Website](https://whatty.club/))
 
