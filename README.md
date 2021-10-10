@@ -6,13 +6,14 @@ Disclaimer: we want to keep this listing as inclusive as possible. Listings are 
 
 ## Ethereum
 
-* Altdoges ([Website](https://www.altdoges.com/)) ([OS](https://opensea.io/collection/altdoges))
-* Bad Bunnies ([Website](https://badbunniesnft.com/)) ([OS](https://opensea.io/collection/bad-bunnies-nft))
-* Burglar Cats ([Website](https://burglarcats.com/)) ([OS](https://opensea.io/collection/burglarcatsnft))
-* Cat card ([OS](https://opensea.io/collection/cat-card))
-* Pixel.Unicorns ([OS](https://opensea.io/collection/pixel-unicorns-))
-* Rumble Kong League ([OS](https://opensea.io/collection/rumble-kong-league))
-* Wanna Panda ([Website](https://wannapanda.com/)) ([OS](https://opensea.io/collection/wannapandaofficial))
+* Altdoges ([Website](https://www.altdoges.com/)) ([Opensea](https://opensea.io/collection/altdoges))
+* Bad Bunnies ([Website](https://badbunniesnft.com/)) ([Opensea](https://opensea.io/collection/bad-bunnies-nft))
+* Burglar Cats ([Website](https://burglarcats.com/)) ([Opensea](https://opensea.io/collection/burglarcatsnft))
+* Cat card ([Opensea](https://opensea.io/collection/cat-card))
+* Panda Dynasty ([Website](https://pandadynasty.io/)) ([Opensea](https://opensea.io/collection/pandadynasty))
+* Pixel.Unicorns ([Opensea](https://opensea.io/collection/pixel-unicorns-))
+* Rumble Kong League ([Opensea](https://opensea.io/collection/rumble-kong-league))
+* Wanna Panda ([Website](https://wannapanda.com/)) ([Opensea](https://opensea.io/collection/wannapandaofficial))
 
 ## NEAR
 
