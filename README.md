@@ -16,7 +16,7 @@ Disclaimer: we want to keep this listing as inclusive as possible. Listings are 
 
 ## NEAR
 
-* Crypto Cat ([Paras](https://paras.id/collection/crypto-cat-by-diaxnear)])
+* Crypto Cat ([Paras](https://paras.id/collection/crypto-cat-by-diaxnear))
 
 ## Solana
 
