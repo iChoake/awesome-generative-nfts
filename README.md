@@ -23,3 +23,7 @@ Disclaimer: we want to keep this listing as inclusive as possible. Listings are 
 
 * Surging Bulls ([Website](https://www.surgingbulls.com/))
 * Famous Fox Federation ([Website](https://famousfoxes.com/)) ([Solanart](https://solanart.io/collections/famousfoxfederation))
+
+## Avalanche
+
+* Ministry of Bulls ([Website](https://ministryofbulls.io/))
