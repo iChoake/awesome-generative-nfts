@@ -28,7 +28,7 @@ DO YOUR OWN RESEARCH
 ## Solana
 
 * Solamanders ([Website](https://www.solamanders.com/)) ([Magic Eden](https://www.magiceden.io/marketplace?collection_symbol=solamanders))
-* Surging Bulls ([Website](https://www.surgingbulls.com/))
+* Surging Bulls ([Website](https://www.surgingbulls.com/)) ([Magic Eden](https://magiceden.io/marketplace?collection_symbol=surging_bulls))
 * Famous Fox Federation ([Website](https://famousfoxes.com/)) ([Solanart](https://solanart.io/collections/famousfoxfederation))
 
 ## Avalanche
