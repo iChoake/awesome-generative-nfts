@@ -31,6 +31,10 @@ DO YOUR OWN RESEARCH
 * Surging Bulls ([Website](https://www.surgingbulls.com/)) ([Magic Eden](https://magiceden.io/marketplace?collection_symbol=surging_bulls))
 * Famous Fox Federation ([Website](https://famousfoxes.com/)) ([Solanart](https://solanart.io/collections/famousfoxfederation))
 
+# Cardano
+
+* Mutant Crocs. ([Website](https://crocmutant.io/))
+
 ## Avalanche
 
 * Ministry of Bulls ([Website](https://ministryofbulls.io/))
