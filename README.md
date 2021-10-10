@@ -14,6 +14,7 @@ Disclaimer: we want to keep this listing as inclusive as possible. Listings are 
 * Pixel.Unicorns ([Opensea](https://opensea.io/collection/pixel-unicorns-))
 * Rumble Kong League ([Opensea](https://opensea.io/collection/rumble-kong-league))
 * Wanna Panda ([Website](https://wannapanda.com/)) ([Opensea](https://opensea.io/collection/wannapandaofficial))
+* Whatty Club ([Website](https://whatty.club/))
 
 ## NEAR
 
