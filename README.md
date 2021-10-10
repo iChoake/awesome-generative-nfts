@@ -27,6 +27,7 @@ DO YOUR OWN RESEARCH
 
 ## Solana
 
+* Solamanders ([Website](https://www.solamanders.com/))
 * Surging Bulls ([Website](https://www.surgingbulls.com/))
 * Famous Fox Federation ([Website](https://famousfoxes.com/)) ([Solanart](https://solanart.io/collections/famousfoxfederation))
 
