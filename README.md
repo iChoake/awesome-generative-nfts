@@ -12,6 +12,7 @@ DO YOUR OWN RESEARCH
 * Bad Bunnies ([Website](https://badbunniesnft.com/)) ([Opensea](https://opensea.io/collection/bad-bunnies-nft))
 * Burglar Cats ([Website](https://burglarcats.com/)) ([Opensea](https://opensea.io/collection/burglarcatsnft))
 * Cat card ([Opensea](https://opensea.io/collection/cat-card))
+* Crypto Duckies ([Website](https://www.cryptoduckies.co/)) ([Opensea](https://opensea.io/collection/crypto-duckies))
 * CryptoFoxes ([Website](https://www.cryptofoxes.io/)) ([Opensea](https://opensea.io/collection/cryptofoxes-v2))
 * Panda Dynasty ([Website](https://pandadynasty.io/)) ([Opensea](https://opensea.io/collection/pandadynasty))
 * Pixel.Unicorns ([Opensea](https://opensea.io/collection/pixel-unicorns-))
