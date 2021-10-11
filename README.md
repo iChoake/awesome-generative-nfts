@@ -15,6 +15,7 @@ DO YOUR OWN RESEARCH
 * Crypto Dolphins ([Opensea](https://opensea.io/collection/cryptodolphins))
 * Crypto Duckies ([Website](https://www.cryptoduckies.co/)) ([Opensea](https://opensea.io/collection/crypto-duckies))
 * CryptoFoxes ([Website](https://www.cryptofoxes.io/)) ([Opensea](https://opensea.io/collection/cryptofoxes-v2))
+* Evolved Apes Inc ([Website (OFFLINE)](https://www.evolvedapes.com/)) ([Opensea](https://opensea.io/collection/evolved-apes-inc))
 * EtherCats ([Website](https://www.ethercats.io/)) ([Opensea](https://opensea.io/collection/ethercats))
 * Panda Dynasty ([Website](https://pandadynasty.io/)) ([Opensea](https://opensea.io/collection/pandadynasty))
 * Pixel.Unicorns ([Opensea](https://opensea.io/collection/pixel-unicorns-))
