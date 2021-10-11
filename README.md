@@ -8,6 +8,7 @@ Disclaimer: we want to keep this listing as inclusive as possible. Marketplace v
 
 * Altdoges ([Website](https://www.altdoges.com/)) ([Opensea](https://opensea.io/collection/altdoges))
 * Bad Bunnies ([Website](https://badbunniesnft.com/)) ([Opensea](https://opensea.io/collection/bad-bunnies-nft))
+* Barn Owlz ([Website](https://www.barnowlz.io/)) ([Opensea](https://opensea.io/collection/barn-owlz))
 * Burglar Cats ([Website](https://burglarcats.com/)) ([Opensea](https://opensea.io/collection/burglarcatsnft))
 * Cat card ([Opensea](https://opensea.io/collection/cat-card))
 * Crypto Dolphins ([Opensea](https://opensea.io/collection/cryptodolphins))
