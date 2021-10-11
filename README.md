@@ -2,7 +2,7 @@
 
 A curated list of awesome animal related Non Fungible Tokens (NFT, ERC721, ERC1155).
 
-Disclaimer: we want to keep this listing as inclusive as possible. Listings are not checked for verification
+Disclaimer: we want to keep this listing as inclusive as possible. Listings are not checked for verification. Websites / links can be broken or offline.
 
 DO YOUR OWN RESEARCH
 
