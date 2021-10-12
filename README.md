@@ -1,6 +1,6 @@
 # Awesome Generic Ethereum NFTs
 
-A curated list of generically themed collections of Non Fungible Tokens (NFT, ERC721, ERC1155).
+A curated list of generically themed collections of Non Fungible Tokens (NFT, ERC721, ERC1155) on Ethereum.
 
 Disclaimer: we want to keep this listing as inclusive as possible. We have not verified the smart contracts. Marketplace verifications are not required. Websites and links can be broken or offline. DO YOUR OWN RESEARCH.
 
