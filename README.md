@@ -31,4 +31,6 @@ Disclaimer: we want to keep this listing as inclusive as possible. We have not v
 
 ## Generic Woman NFTs (World of Women)
 
-TODO
+* Crypto Chicks ([Website](https://www.cryptochicks.app/)) ([Opensea](https://opensea.io/collection/the-crypto-chicks))
+* Les Non Fongible Femmes ([Opensea](https://opensea.io/collection/les-non-fongible-femmes))
+* Femmeverse ([Opensea](https://opensea.io/collection/femmeverse))
