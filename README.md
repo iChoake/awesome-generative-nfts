@@ -7,6 +7,7 @@ Disclaimer: we want to keep this listing as inclusive as possible. We have not v
 ## Generic Punk NFTs (Crypto Punks)
 
 * COVIDPunks! ([Website](https://www.covidpunks.com/)) ([Opensea](https://opensea.io/collection/covidpunksnft))
+* Museum - The White Room ([Website](https://www.museum-refined.art/)) ([Opensea](https://opensea.io/collection/museum-the-white-room))
 
 ## Generic Animal NFTs (Bored Apec Yacht Club)
 
