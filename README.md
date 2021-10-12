@@ -1,10 +1,12 @@
-# Awesome Animal NFTs
+# Awesome NFTs
 
-A curated list of awesome animal related Non Fungible Tokens (NFT, ERC721, ERC1155).
+A curated list of of different themes of Non Fungible Tokens (NFT, ERC721, ERC1155).
 
 Disclaimer: we want to keep this listing as inclusive as possible. We have not verified the smart contracts. Marketplace verifications are not required. Websites and links can be broken or offline. DO YOUR OWN RESEARCH.
 
-## Ethereum
+## Animal NFTs
+
+### Ethereum
 
 * Altdoges ([Website](https://www.altdoges.com/)) ([Opensea](https://opensea.io/collection/altdoges))
 * Ape Gang ([Website](https://apegang.art/)) ([Opensea](https://opensea.io/collection/ape-gang))
@@ -25,20 +27,20 @@ Disclaimer: we want to keep this listing as inclusive as possible. We have not v
 * Wanna Panda ([Website](https://wannapanda.com/)) ([Opensea](https://opensea.io/collection/wannapandaofficial))
 * Whatty Club ([Website](https://whatty.club/))
 
-## NEAR
+### NEAR
 
 * Crypto Cat ([Paras](https://paras.id/collection/crypto-cat-by-diaxnear))
 
-## Solana
+### Solana
 
 * Solamanders ([Website](https://www.solamanders.com/)) ([Magic Eden](https://www.magiceden.io/marketplace?collection_symbol=solamanders))
 * Surging Bulls ([Website](https://www.surgingbulls.com/)) ([Magic Eden](https://magiceden.io/marketplace?collection_symbol=surging_bulls))
 * Famous Fox Federation ([Website](https://famousfoxes.com/)) ([Solanart](https://solanart.io/collections/famousfoxfederation))
 
-# Cardano
+### Cardano
 
 * Mutant Crocs. ([Website](https://crocmutant.io/))
 
-## Avalanche
+### Avalanche
 
 * Ministry of Bulls ([Website](https://ministryofbulls.io/))
