@@ -1,4 +1,4 @@
-# Awesome Generic Ethereum NFTs
+# Awesome & Generic Ethereum NFTs
 
 A curated list of Non Fungible Tokens (NFT, ERC721, ERC1155) on Ethereum that have been organized according their corresponding generic themes.
 
