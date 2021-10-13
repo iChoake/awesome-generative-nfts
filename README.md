@@ -32,6 +32,7 @@ Disclaimer: We want to keep this listing as inclusive as possible. Functional we
 * Stoner Cats ([Website](https://www.stonercats.com/)) ([Opensea](https://opensea.io/collection/stoner-cats-official))
 * Wanna Panda ([Website](https://wannapanda.com/)) ([Opensea](https://opensea.io/collection/wannapandaofficial))
 * Whatty Club ([Website](https://whatty.club/))
+* Winter Bears ([Website](https://www.winterbearsnft.com/)) ([Opensea](https://opensea.io/collection/winterbears))
 
 ## Generic Women NFTs (World of Women)
 
