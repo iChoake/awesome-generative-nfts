@@ -44,3 +44,4 @@ Disclaimer: we want to keep this listing as inclusive as possible. We have not v
 * Abstract Loot ([Opensea](https://opensea.io/collection/abstract-loot))
 * Bloot (not for Weaks) ([Opensea](https://opensea.io/collection/blootofficial))
 * Extension Loot (for Adventurers) ([Opensea](https://opensea.io/collection/xloot))
+* Bloot Girls ([Opensea](https://opensea.io/collection/blootgirl))
