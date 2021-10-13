@@ -9,7 +9,7 @@ A curated list of Non Fungible Tokens (NFT, ERC721, ERC1155) on Ethereum that ha
 * Loot (for Adventurers)
 * World of Women
 
-And now, before moving to the listings, a disclaimer.
+And then, before moving to the listings, a disclaimer.
 
 We want to keep this listing below as inclusive as possible. This means that the criteria for entering the list is intentionally very loose. Functional websites are NOT required. Marketplace verifications are NOT required. We have NOT verified the smart contracts. The listings are NOT endorsements. They can also contain errors or mistakes. DO YOUR OWN RESEARCH.
 
