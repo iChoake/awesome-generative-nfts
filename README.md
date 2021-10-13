@@ -46,11 +46,12 @@ Disclaimer: We want to keep this listing as inclusive as possible. Functional we
 
 ## Generic Loot NFTs (Loot (for Adventurers))
 
-* Loot (for Cyberpunks) ([Opensea](https://opensea.io/collection/loot-for-cyberpunks))
 * Abstract Loot ([Opensea](https://opensea.io/collection/abstract-loot))
 * Bloot (not for Weaks) ([Opensea](https://opensea.io/collection/blootofficial))
-* Extension Loot (for Adventurers) ([Opensea](https://opensea.io/collection/xloot))
 * Bloot Girls ([Opensea](https://opensea.io/collection/blootgirl))
+* Extension Loot (for Adventurers) ([Opensea](https://opensea.io/collection/xloot))
+* Loot (for Cyberpunks) ([Opensea](https://opensea.io/collection/loot-for-cyberpunks))
+* InventoryNFT ([Website](https://www.inventorynft.net/)) ([Opensea](https://opensea.io/collection/inventorynft))
 
 ## Other Generic NFTs
 
