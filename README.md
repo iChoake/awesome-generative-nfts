@@ -1,8 +1,8 @@
-# Awesome & Generic Ethereum NFTs
+# Awesome Ethereum NFTs
 
 A curated list of Non Fungible Tokens (NFT, ERC721, ERC1155) on Ethereum that have been organized according their corresponding generic themes.
 
-The Actual Awesome NFTs the themes are formed around are the following:
+The Actually Awesome NFTs are the following:
 
 * Crypto Punks
 * Bored Ape Yacht Club (BAYC)
