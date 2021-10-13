@@ -5,9 +5,9 @@ A curated list of Non Fungible Tokens (NFT, ERC721, ERC1155) on Ethereum that ha
 **Actually Awesome NFTs are:**
 
 * Crypto Punks ([Website](https://www.larvalabs.com/cryptopunks)) ([Opensea](https://opensea.io/collection/cryptopunks))
-* Bored Ape Yacht Club (BAYC)
-* Loot (for Adventurers)
-* World of Women
+* Bored Ape Yacht Club ([Website](https://boredapeyachtclub.com/)) ([Opensea](https://opensea.io/collection/boredapeyachtclub))
+* Loot (for Adventurers) ([Opensea](https://opensea.io/collection/lootproject))
+* World of Women ([Website](https://worldofwomen.art/)) ([Opensea](https://opensea.io/collection/world-of-women-nft))
 
 And then, before moving to the listings, a disclaimer.
 
