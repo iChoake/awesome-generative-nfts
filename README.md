@@ -12,6 +12,7 @@ Disclaimer: We want to keep this listing as inclusive as possible. Functional we
 ## Generic Animal NFTs (Bored Ape Yacht Club)
 
 * Altdoges ([Website](https://www.altdoges.com/)) ([Opensea](https://opensea.io/collection/altdoges))
+* Animal Society NFTs ([Website](https://animalsocietynft.com/))
 * Ape Gang ([Website](https://apegang.art/)) ([Opensea](https://opensea.io/collection/ape-gang))
 * Bad Bunnies ([Website](https://badbunniesnft.com/)) ([Opensea](https://opensea.io/collection/bad-bunnies-nft))
 * Barn Owlz ([Website](https://www.barnowlz.io/)) ([Opensea](https://opensea.io/collection/barn-owlz))
