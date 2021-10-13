@@ -20,6 +20,7 @@ Disclaimer: We want to keep this listing as inclusive as possible. Functional we
 * Cat card ([Opensea](https://opensea.io/collection/cat-card))
 * Crypto Dolphins ([Opensea](https://opensea.io/collection/cryptodolphins))
 * Crypto Duckies ([Website](https://www.cryptoduckies.co/)) ([Opensea](https://opensea.io/collection/crypto-duckies))
+* Crypto Pugs ([Opensea](https://opensea.io/collection/crypto-pugs))
 * CryptoFoxes ([Website](https://www.cryptofoxes.io/)) ([Opensea](https://opensea.io/collection/cryptofoxes-v2))
 * Dogepunks ([Website](https://dogepunks.com/)) ([Opensea](https://opensea.io/collection/dogepunks))
 * Evolved Apes Inc ~~([Website](https://www.evolvedapes.com/))~~ ([Opensea](https://opensea.io/collection/evolved-apes-inc))
