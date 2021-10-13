@@ -58,3 +58,4 @@ Disclaimer: We want to keep this listing as inclusive as possible. Functional we
 ## Other Generic NFTs
 
 * Rocket Riders NFT ([Website](https://www.rocketridersnft.com/)) ([Opensea](https://opensea.io/collection/rocketridersnft))
+* Galactic Secret Agency ([Website](https://www.galacticsecretagency.com/)) ([Opensea](https://opensea.io/collection/galactic-secret-agency))
