@@ -20,7 +20,7 @@ We want to keep this listing below as inclusive as possible. This means that the
 * COVIDPunks! ([Website](https://www.covidpunks.com/)) ([Opensea](https://opensea.io/collection/covidpunksnft))
 * Museum - The White Room ([Website](https://www.museum-refined.art/)) ([Opensea](https://opensea.io/collection/museum-the-white-room))
 
-### Generic <insert-adjective> <insert-creature> <insert-dwelling> NFTs
+### Generic adjective/creature/dwelling NFTs
 
 * Altdoges ([Website](https://www.altdoges.com/)) ([Opensea](https://opensea.io/collection/altdoges))
 * Animal Society NFTs ([Website](https://animalsocietynft.com/))
