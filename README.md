@@ -6,8 +6,8 @@ The Actual Awesome NFTs the themes are formed around are the following:
 
 * Crypto Punks
 * Bored Ape Yacht Club (BAYC)
-* World of Women
 * Loot (for Adventurers)
+* World of Women
 
 Disclaimer: We want to keep this listing as inclusive as possible. Functional websites are NOT required. Marketplace verifications are NOT required. We have NOT verified the smart contracts. All in all: listings are NOT endorsements. DO YOUR OWN RESEARCH.
 
@@ -51,13 +51,6 @@ Disclaimer: We want to keep this listing as inclusive as possible. Functional we
 * Whatty Club ([Website](https://whatty.club/))
 * Winter Bears ([Website](https://www.winterbearsnft.com/)) ([Opensea](https://opensea.io/collection/winterbears))
 
-### Generic Women NFTs
-
-* Crypto Chicks ([Website](https://www.cryptochicks.app/)) ([Opensea](https://opensea.io/collection/the-crypto-chicks))
-* FameLadySquad ([Website](https://www.fameladysquad.com/)) ([Opensea](https://opensea.io/collection/fameladysquad))
-* Les Non Fongible Femmes ([Opensea](https://opensea.io/collection/les-non-fongible-femmes))
-* Femmeverse ([Opensea](https://opensea.io/collection/femmeverse))
-
 ### Generic Loot NFTs
 
 * Abstract Loot ([Opensea](https://opensea.io/collection/abstract-loot))
@@ -66,3 +59,10 @@ Disclaimer: We want to keep this listing as inclusive as possible. Functional we
 * Extension Loot (for Adventurers) ([Opensea](https://opensea.io/collection/xloot))
 * Loot (for Cyberpunks) ([Opensea](https://opensea.io/collection/loot-for-cyberpunks))
 * InventoryNFT ([Website](https://www.inventorynft.net/)) ([Opensea](https://opensea.io/collection/inventorynft))
+
+### Generic Women NFTs
+
+* Crypto Chicks ([Website](https://www.cryptochicks.app/)) ([Opensea](https://opensea.io/collection/the-crypto-chicks))
+* FameLadySquad ([Website](https://www.fameladysquad.com/)) ([Opensea](https://opensea.io/collection/fameladysquad))
+* Les Non Fongible Femmes ([Opensea](https://opensea.io/collection/les-non-fongible-femmes))
+* Femmeverse ([Opensea](https://opensea.io/collection/femmeverse))
