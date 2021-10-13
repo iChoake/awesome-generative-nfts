@@ -2,7 +2,7 @@
 
 A curated list of generically themed collections of Non Fungible Tokens (NFT, ERC721, ERC1155) on Ethereum.
 
-Disclaimer: we want to keep this listing as inclusive as possible. We have not verified the smart contracts. Marketplace verifications are not required. Websites and links can be broken or offline. DO YOUR OWN RESEARCH.
+Disclaimer: We want to keep this listing as inclusive as possible. Listings are NOT endorsements. We have NOT verified the smart contracts. Marketplace verifications are NOT required. Websites and links can be broken or offline. DO YOUR OWN RESEARCH.
 
 ## Generic Punk NFTs (Crypto Punks)
 
