@@ -11,7 +11,7 @@ The Actual Awesome NFTs the themes are formed around are the following:
 
 And now, before moving to the listings, a disclaimer.
 
-We want to keep this listing as inclusive as possible. Functional websites are NOT required. Marketplace verifications are NOT required. We have NOT verified the smart contracts. All in all: listings are NOT endorsements. DO YOUR OWN RESEARCH.
+We want to keep this listing below as inclusive as possible. This means that the criteria for entering the list is intentionally very loose. Functional websites are NOT required. Marketplace verifications are NOT required. We have NOT verified the smart contracts. The listings are NOT endorsements. They can also contain errors or mistakes. DO YOUR OWN RESEARCH.
 
 ## Generic NFTs
 
