@@ -41,6 +41,7 @@ Disclaimer: We want to keep this listing as inclusive as possible. Functional we
 ## Generic Women NFTs (World of Women)
 
 * Crypto Chicks ([Website](https://www.cryptochicks.app/)) ([Opensea](https://opensea.io/collection/the-crypto-chicks))
+* FameLadySquad ([Website](https://www.fameladysquad.com/)) ([Opensea](https://opensea.io/collection/fameladysquad))
 * Les Non Fongible Femmes ([Opensea](https://opensea.io/collection/les-non-fongible-femmes))
 * Femmeverse ([Opensea](https://opensea.io/collection/femmeverse))
 
