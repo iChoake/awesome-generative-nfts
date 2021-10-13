@@ -23,6 +23,7 @@ Disclaimer: we want to keep this listing as inclusive as possible. We have not v
 * Dogepunks ([Website](https://dogepunks.com/)) ([Opensea](https://opensea.io/collection/dogepunks))
 * Evolved Apes Inc ~~([Website](https://www.evolvedapes.com/))~~ ([Opensea](https://opensea.io/collection/evolved-apes-inc))
 * EtherCats ([Website](https://www.ethercats.io/)) ([Opensea](https://opensea.io/collection/ethercats))
+* OnChainCat ([Website](https://onchaincat.com/)) ([Opensea](https://opensea.io/collection/onchaincat))
 * OnChainMonkey ([Website](https://onchainmonkey.com/)) ([Opensea](https://opensea.io/collection/onchainmonkey))
 * Panda Dynasty ([Website](https://pandadynasty.io/)) ([Opensea](https://opensea.io/collection/pandadynasty))
 * Pixel Pussies ([Website](https://pixelpussy.io/))
