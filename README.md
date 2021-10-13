@@ -37,3 +37,10 @@ Disclaimer: we want to keep this listing as inclusive as possible. We have not v
 * Crypto Chicks ([Website](https://www.cryptochicks.app/)) ([Opensea](https://opensea.io/collection/the-crypto-chicks))
 * Les Non Fongible Femmes ([Opensea](https://opensea.io/collection/les-non-fongible-femmes))
 * Femmeverse ([Opensea](https://opensea.io/collection/femmeverse))
+
+## Generic Loot NFTs (Loot (for Adventurers))
+
+* Loot (for Cyberpunks) ([Opensea](https://opensea.io/collection/loot-for-cyberpunks))
+* Abstract Loot ([Opensea](https://opensea.io/collection/abstract-loot))
+* Bloot (not for Weaks) ([Opensea](https://opensea.io/collection/blootofficial))
+* Extension Loot (for Adventurers) ([Opensea](https://opensea.io/collection/xloot))
