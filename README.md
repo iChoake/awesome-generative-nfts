@@ -9,7 +9,9 @@ The Actual Awesome NFTs the themes are formed around are the following:
 * Loot (for Adventurers)
 * World of Women
 
-Disclaimer: We want to keep this listing as inclusive as possible. Functional websites are NOT required. Marketplace verifications are NOT required. We have NOT verified the smart contracts. All in all: listings are NOT endorsements. DO YOUR OWN RESEARCH.
+And now, before moving to the listings, a disclaimer.
+
+We want to keep this listing as inclusive as possible. Functional websites are NOT required. Marketplace verifications are NOT required. We have NOT verified the smart contracts. All in all: listings are NOT endorsements. DO YOUR OWN RESEARCH.
 
 ## Generic NFTs
 
