@@ -75,8 +75,8 @@ We want to keep this listing below as inclusive as possible. This means that the
 
 Things that still need to be categorized/organized:
 
-* MoonCats
-* Monster Blocks ([Website](https://www.monsterblocks.io/))
+* MoonCats -- NOT CATEGORIZED
+* Monster Blocks ([Website](https://www.monsterblocks.io/)) -- NOT CATEGORIZED
 * Fighter Turtles Club ([Website](https://www.fighterturtles.club/)) -- CONTRACT MISSING
 * GoosePunks NFT ([Website](https://goosepunks.com/)) -- CONTRACT MISSING
 * The Gator Family ([Website](https://thegatorfamily.com/)) -- CONTRACT MISSING
