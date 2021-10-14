@@ -83,4 +83,5 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 ## Unclassified and Upcoming NFTs
 
+* Capsule House ([Opensea](https://opensea.io/collection/capsulehouse))
 * Colonies NFT ([Website](https://colonies-nft.com/))
