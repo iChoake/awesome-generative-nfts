@@ -37,6 +37,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Pixel.Unicorns ([Opensea](https://opensea.io/collection/pixel-unicorns-))
 * Rocket Riders NFT ([Website](https://www.rocketridersnft.com/)) ([Opensea](https://opensea.io/collection/rocketridersnft))
 * Rumble Kong League ([Opensea](https://opensea.io/collection/rumble-kong-league))
+* Samurai Doge ([Website](https://samuraidoge.net/)) ([Opensea](https://opensea.io/collection/samuraidoge))
 * Stoner Cats ([Website](https://www.stonercats.com/)) ([Opensea](https://opensea.io/collection/stoner-cats-official))
 * The Alien Boy ([Website](https://www.thealienboy.com/)) ([Opensea](https://opensea.io/collection/thealienboy))
 * Wanna Panda ([Website](https://wannapanda.com/)) ([Opensea](https://opensea.io/collection/wannapandaofficial))
