@@ -73,10 +73,14 @@ We want to keep this listing below as inclusive as possible. This means that the
 
 ## TODO area
 
-Things that still need to be categorized/organized:
+### Candidates for non-generic NFTs
 
-* MoonCats -- NOT CATEGORIZED
-* Monster Blocks ([Website](https://www.monsterblocks.io/)) -- NOT CATEGORIZED
-* Fighter Turtles Club ([Website](https://www.fighterturtles.club/)) -- CONTRACT MISSING
-* GoosePunks NFT ([Website](https://goosepunks.com/)) -- CONTRACT MISSING
-* The Gator Family ([Website](https://thegatorfamily.com/)) -- CONTRACT MISSING
+* MoonCats ([Website](https://mooncat.community/))
+* Template ([Website](https://www.template.wtf/)) ([Opensea](https://opensea.io/collection/template))
+* Monster Blocks ([Website](https://www.monsterblocks.io/)) ([Opensea](https://opensea.io/collection/monster-blocks))
+
+### Contract missing
+
+* Fighter Turtles Club ([Website](https://www.fighterturtles.club/))
+* GoosePunks NFT ([Website](https://goosepunks.com/))
+* The Gator Family ([Website](https://thegatorfamily.com/))
