@@ -79,3 +79,4 @@ Things that still need to be categorized/organized:
 * Monster Blocks ([Website](https://www.monsterblocks.io/))
 * Fighter Turtles Club ([Website](https://www.fighterturtles.club/)) -- CONTRACT MISSING
 * GoosePunks NFT ([Website](https://goosepunks.com/)) -- CONTRACT MISSING
+* The Gator Family ([Website](https://thegatorfamily.com/)) -- CONTRACT MISSING
