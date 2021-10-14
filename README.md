@@ -69,3 +69,10 @@ We want to keep this listing below as inclusive as possible. This means that the
 * FameLadySquad ([Website](https://www.fameladysquad.com/)) ([Opensea](https://opensea.io/collection/fameladysquad))
 * Les Non Fongible Femmes ([Opensea](https://opensea.io/collection/les-non-fongible-femmes))
 * Femmeverse ([Opensea](https://opensea.io/collection/femmeverse))
+
+## TODO area
+
+Things that still need to be categorized/organized:
+
+* MoonCats
+* 
