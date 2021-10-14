@@ -34,6 +34,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Galactic Secret Agency ([Website](https://www.galacticsecretagency.com/)) ([Opensea](https://opensea.io/collection/galactic-secret-agency))
 * Janky Heist ([Website](https://jankyheist.com/)) ([Opensea](https://opensea.io/collection/jankyheist))
 * Lonely Frog Lambo Club ([Website](https://www.lonelyfroglamboclub.com/)) ([Opensea](https://opensea.io/collection/thelonelyfroglamboclub))
+* Lysergic Labs Shroomz ([Opensea](https://opensea.io/collection/lysergiclabsshroomz))
 * Mr. Bojangles - Sleepy Sloth ([Opensea](https://opensea.io/collection/sleepy-mrbojangles))
 * OnChainCat ([Website](https://onchaincat.com/)) ([Opensea](https://opensea.io/collection/onchaincat))
 * OnChainMonkey ([Website](https://onchainmonkey.com/)) ([Opensea](https://opensea.io/collection/onchainmonkey))
