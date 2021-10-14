@@ -11,7 +11,6 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * **Crypto Punks ([Website](https://www.larvalabs.com/cryptopunks)) ([Opensea](https://opensea.io/collection/cryptopunks))**
 * 3DPunks ([Website](https://3d-punks.com/)) ([Opensea](https://opensea.io/collection/3dpunks))
 * COVIDPunks! ([Website](https://www.covidpunks.com/)) ([Opensea](https://opensea.io/collection/covidpunksnft))
-* Museum - The White Room ([Website](https://www.museum-refined.art/)) ([Opensea](https://opensea.io/collection/museum-the-white-room))
 
 ## adjective-creature-fam NFTs
 
@@ -78,5 +77,6 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 * **MoonCats ([Website](https://mooncat.community/))**
 * Monster Blocks [[Contract](https://etherscan.io/address/0xa56a4f2b9807311ac401c6afba695d3b0c31079d#code)] ([Website](https://www.monsterblocks.io/)) ([Opensea](https://opensea.io/collection/monster-blocks))
+* Museum - The White Room ([Website](https://www.museum-refined.art/)) ([Opensea](https://opensea.io/collection/museum-the-white-room))
 * Template [[Contract](https://etherscan.io/address/0x3a0335409a0becd0da1ff6e442b9b6874d4e87a1#code)] ([Website](https://www.template.wtf/)) ([Opensea](https://opensea.io/collection/template))
 
