@@ -22,6 +22,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Barn Owlz ([Website](https://www.barnowlz.io/)) ([Opensea](https://opensea.io/collection/barn-owlz))
 * Blazed Cats ([Website](https://blazedcats.com/)) ([Opensea](https://opensea.io/collection/blazedcats))
 * Burglar Cats ([Website](https://burglarcats.com/)) ([Opensea](https://opensea.io/collection/burglarcatsnft))
+* Claylings ([Opensea](https://opensea.io/collection/theclaylings))
 * Chibi Apes ([Website](https://chibiapes.com/)) ([Opensea](https://opensea.io/collection/chibi-apes))
 * Crypto Dolphins ([Opensea](https://opensea.io/collection/cryptodolphins))
 * Crypto Duckies ([Website](https://www.cryptoduckies.co/)) ([Opensea](https://opensea.io/collection/crypto-duckies))
