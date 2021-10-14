@@ -1,28 +1,19 @@
-# Awesome Generic NFTs
+# Awesome Generative NFTs
 
-A curated list of Non Fungible Tokens (NFT, ERC721, ERC1155) on Ethereum that have been organized according their corresponding generic themes.
+A curated list of generative Non Fungible Tokens (NFT, ERC721, ERC1155) organized by their primarily distinguishing themes.
 
-**Non-generic NFTs are:**
+Disclaimer: we want to keep this listing below as inclusive as possible. This means that the criteria for entering the list is intentionally very loose. Functional websites are NOT required. Marketplace verifications are NOT required. We have NOT verified the smart contracts. The listings are NOT endorsements. They can also contain errors or mistakes. DO YOUR OWN RESEARCH.
+
+## Punk NFTs
 
 * Crypto Punks ([Website](https://www.larvalabs.com/cryptopunks)) ([Opensea](https://opensea.io/collection/cryptopunks))
-* Bored Ape Yacht Club ([Website](https://boredapeyachtclub.com/)) ([Opensea](https://opensea.io/collection/boredapeyachtclub))
-* Loot (for Adventurers) ([Opensea](https://opensea.io/collection/lootproject))
-* World of Women ([Website](https://worldofwomen.art/)) ([Opensea](https://opensea.io/collection/world-of-women-nft))
-
-And then, before moving to the listings, a disclaimer.
-
-We want to keep this listing below as inclusive as possible. This means that the criteria for entering the list is intentionally very loose. Functional websites are NOT required. Marketplace verifications are NOT required. We have NOT verified the smart contracts. The listings are NOT endorsements. They can also contain errors or mistakes. DO YOUR OWN RESEARCH.
-
-## Generic NFTs
-
-### Generic Punk NFTs
-
 * 3DPunks ([Website](https://3d-punks.com/)) ([Opensea](https://opensea.io/collection/3dpunks))
 * COVIDPunks! ([Website](https://www.covidpunks.com/)) ([Opensea](https://opensea.io/collection/covidpunksnft))
 * Museum - The White Room ([Website](https://www.museum-refined.art/)) ([Opensea](https://opensea.io/collection/museum-the-white-room))
 
-### Generic adjective-creature-fam NFTs
+## adjective-creature-fam NFTs
 
+* Bored Ape Yacht Club ([Website](https://boredapeyachtclub.com/)) ([Opensea](https://opensea.io/collection/boredapeyachtclub))
 * Altdoges ([Website](https://www.altdoges.com/)) ([Opensea](https://opensea.io/collection/altdoges))
 * Animal Society NFTs ([Website](https://animalsocietynft.com/))
 * Ape Gang ([Website](https://apegang.art/)) ([Opensea](https://opensea.io/collection/ape-gang))
@@ -55,7 +46,9 @@ We want to keep this listing below as inclusive as possible. This means that the
 * Whatty Club ([Website](https://whatty.club/))
 * Winter Bears ([Website](https://www.winterbearsnft.com/)) ([Opensea](https://opensea.io/collection/winterbears))
 
-### Generic Loot NFTs
+## Loot NFTs
+
+* Loot (for Adventurers) ([Opensea](https://opensea.io/collection/lootproject))
 
 * Abstract Loot ([Opensea](https://opensea.io/collection/abstract-loot))
 * Bloot (not for Weaks) ([Opensea](https://opensea.io/collection/blootofficial))
@@ -64,14 +57,13 @@ We want to keep this listing below as inclusive as possible. This means that the
 * Loot (for Cyberpunks) ([Opensea](https://opensea.io/collection/loot-for-cyberpunks))
 * InventoryNFT ([Website](https://www.inventorynft.net/)) ([Opensea](https://opensea.io/collection/inventorynft))
 
-### Generic Women NFTs
+## Women NFTs
 
+* World of Women ([Website](https://worldofwomen.art/)) ([Opensea](https://opensea.io/collection/world-of-women-nft))
 * Crypto Chicks ([Website](https://www.cryptochicks.app/)) ([Opensea](https://opensea.io/collection/the-crypto-chicks))
 * FameLadySquad ([Website](https://www.fameladysquad.com/)) ([Opensea](https://opensea.io/collection/fameladysquad))
 
-## TODO area
-
-### Category candidate: hand-painted generative NFT
+## Hand-painted NFTs
 
 * Crypto Hobos [[Contract](https://etherscan.io/address/0xd153f0014db6d1f339c6340d2c9f59214355d9d7#code)] ([Website](https://cryptohobos.io/)) ([Opensea](https://opensea.io/collection/crypto-hobos))
 * Femmeverse [[Contract](https://etherscan.io/address/0xa1caae7da6df6831d48e40a383528ac897664bf2#code)] ([Website](https://femmeverse.space/)) ([Opensea](https://opensea.io/collection/femmeverse))
@@ -81,14 +73,9 @@ We want to keep this listing below as inclusive as possible. This means that the
 * Standametti [[Contract](https://etherscan.io/address/0xfc6bc5d50912354e89bad4dabf053bca2d7cd817#code)] ([Opensea](https://opensea.io/collection/standametti))
 * Surreals [[Contract](https://etherscan.io/address/0xa406489360a47af2c74fc1004316a64e469646a5#code)] ([Website](https://surreals.io/)) ([Opensea](https://opensea.io/collection/official-surreals))
 
-### Other candidates
+## Mutable NFTs
 
 * MoonCats ([Website](https://mooncat.community/))
-* Template [[Contract](https://etherscan.io/address/0x3a0335409a0becd0da1ff6e442b9b6874d4e87a1#code)] ([Website](https://www.template.wtf/)) ([Opensea](https://opensea.io/collection/template))
 * Monster Blocks [[Contract](https://etherscan.io/address/0xa56a4f2b9807311ac401c6afba695d3b0c31079d#code)] ([Website](https://www.monsterblocks.io/)) ([Opensea](https://opensea.io/collection/monster-blocks))
+* Template [[Contract](https://etherscan.io/address/0x3a0335409a0becd0da1ff6e442b9b6874d4e87a1#code)] ([Website](https://www.template.wtf/)) ([Opensea](https://opensea.io/collection/template))
 
-### Contract missing
-
-* Fighter Turtles Club ([Website](https://www.fighterturtles.club/))
-* GoosePunks NFT ([Website](https://goosepunks.com/))
-* The Gator Family ([Website](https://thegatorfamily.com/))
