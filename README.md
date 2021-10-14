@@ -17,6 +17,7 @@ We want to keep this listing below as inclusive as possible. This means that the
 
 ### Generic Punk NFTs
 
+* 3DPunks ([Website](https://3d-punks.com/)) ([Opensea](https://opensea.io/collection/3dpunks))
 * COVIDPunks! ([Website](https://www.covidpunks.com/)) ([Opensea](https://opensea.io/collection/covidpunksnft))
 * Museum - The White Room ([Website](https://www.museum-refined.art/)) ([Opensea](https://opensea.io/collection/museum-the-white-room))
 
