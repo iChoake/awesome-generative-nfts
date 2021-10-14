@@ -81,3 +81,6 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * NFT Worlds [[Contract](https://etherscan.io/address/0xbd4455da5929d5639ee098abfaa3241e9ae111af#code)] ([Website](https://www.nftworlds.com/)) ([Opensea](https://opensea.io/collection/nft-worlds))
 * Template [[Contract](https://etherscan.io/address/0x3a0335409a0becd0da1ff6e442b9b6874d4e87a1#code)] ([Website](https://www.template.wtf/)) ([Opensea](https://opensea.io/collection/template))
 
+## Unclassified and Upcoming NFTs
+
+* Colonies NFT ([Website](https://colonies-nft.com/))
