@@ -6,14 +6,14 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 ## Punk NFTs
 
-* Crypto Punks ([Website](https://www.larvalabs.com/cryptopunks)) ([Opensea](https://opensea.io/collection/cryptopunks))
+* **Crypto Punks ([Website](https://www.larvalabs.com/cryptopunks)) ([Opensea](https://opensea.io/collection/cryptopunks))**
 * 3DPunks ([Website](https://3d-punks.com/)) ([Opensea](https://opensea.io/collection/3dpunks))
 * COVIDPunks! ([Website](https://www.covidpunks.com/)) ([Opensea](https://opensea.io/collection/covidpunksnft))
 * Museum - The White Room ([Website](https://www.museum-refined.art/)) ([Opensea](https://opensea.io/collection/museum-the-white-room))
 
 ## adjective-creature-fam NFTs
 
-* Bored Ape Yacht Club ([Website](https://boredapeyachtclub.com/)) ([Opensea](https://opensea.io/collection/boredapeyachtclub))
+* **Bored Ape Yacht Club ([Website](https://boredapeyachtclub.com/)) ([Opensea](https://opensea.io/collection/boredapeyachtclub))**
 * Altdoges ([Website](https://www.altdoges.com/)) ([Opensea](https://opensea.io/collection/altdoges))
 * Animal Society NFTs ([Website](https://animalsocietynft.com/))
 * Ape Gang ([Website](https://apegang.art/)) ([Opensea](https://opensea.io/collection/ape-gang))
@@ -48,7 +48,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 ## Loot NFTs
 
-* Loot (for Adventurers) ([Opensea](https://opensea.io/collection/lootproject))
+* **Loot (for Adventurers) ([Opensea](https://opensea.io/collection/lootproject))**
 * Abstract Loot ([Opensea](https://opensea.io/collection/abstract-loot))
 * Bloot (not for Weaks) ([Opensea](https://opensea.io/collection/blootofficial))
 * Bloot Girls ([Opensea](https://opensea.io/collection/blootgirl))
@@ -58,13 +58,13 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 ## Women NFTs
 
-* World of Women ([Website](https://worldofwomen.art/)) ([Opensea](https://opensea.io/collection/world-of-women-nft))
+* **World of Women ([Website](https://worldofwomen.art/)) ([Opensea](https://opensea.io/collection/world-of-women-nft))**
 * Crypto Chicks ([Website](https://www.cryptochicks.app/)) ([Opensea](https://opensea.io/collection/the-crypto-chicks))
 * FameLadySquad ([Website](https://www.fameladysquad.com/)) ([Opensea](https://opensea.io/collection/fameladysquad))
 
 ## Hand-painted NFTs
 
-* Crypto Hobos [[Contract](https://etherscan.io/address/0xd153f0014db6d1f339c6340d2c9f59214355d9d7#code)] ([Website](https://cryptohobos.io/)) ([Opensea](https://opensea.io/collection/crypto-hobos))
+* **Crypto Hobos [[Contract](https://etherscan.io/address/0xd153f0014db6d1f339c6340d2c9f59214355d9d7#code)] ([Website](https://cryptohobos.io/)) ([Opensea](https://opensea.io/collection/crypto-hobos))**
 * Femmeverse [[Contract](https://etherscan.io/address/0xa1caae7da6df6831d48e40a383528ac897664bf2#code)] ([Website](https://femmeverse.space/)) ([Opensea](https://opensea.io/collection/femmeverse))
 * Les Non Fongible Femmes [[Contract](https://etherscan.io/address/0xc1b2118a3995778a55282759a58207c2f5dcc186#code)] ([Opensea](https://opensea.io/collection/les-non-fongible-femmes))
 * Pettametti [[Contract](https://etherscan.io/address/0x52474fbf6b678a280d0c69f2314d6d95548b3daf#code)] ([Opensea](https://opensea.io/collection/pettametti))
@@ -74,7 +74,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 ## Mutable NFTs
 
-* MoonCats ([Website](https://mooncat.community/))
+* **MoonCats ([Website](https://mooncat.community/))**
 * Monster Blocks [[Contract](https://etherscan.io/address/0xa56a4f2b9807311ac401c6afba695d3b0c31079d#code)] ([Website](https://www.monsterblocks.io/)) ([Opensea](https://opensea.io/collection/monster-blocks))
 * Template [[Contract](https://etherscan.io/address/0x3a0335409a0becd0da1ff6e442b9b6874d4e87a1#code)] ([Website](https://www.template.wtf/)) ([Opensea](https://opensea.io/collection/template))
 
