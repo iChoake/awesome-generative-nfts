@@ -23,6 +23,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Crypto Duckies ([Website](https://www.cryptoduckies.co/)) ([Opensea](https://opensea.io/collection/crypto-duckies))
 * Crypto Pugs ([Opensea](https://opensea.io/collection/crypto-pugs))
 * CryptoFoxes ([Website](https://www.cryptofoxes.io/)) ([Opensea](https://opensea.io/collection/cryptofoxes-v2))
+* DRRT ([Opensea](https://opensea.io/collection/drrt))
 * Dogepunks ([Website](https://dogepunks.com/)) ([Opensea](https://opensea.io/collection/dogepunks))
 * Evolved Apes Inc ~~([Website](https://www.evolvedapes.com/))~~ ([Opensea](https://opensea.io/collection/evolved-apes-inc))
 * EtherCats ([Website](https://www.ethercats.io/)) ([Opensea](https://opensea.io/collection/ethercats))
