@@ -76,7 +76,7 @@ We want to keep this listing below as inclusive as possible. This means that the
 ### Candidates for non-generic NFTs
 
 * MoonCats ([Website](https://mooncat.community/))
-* Template ([Website](https://www.template.wtf/)) ([Opensea](https://opensea.io/collection/template))
+* Template [[Contract](https://etherscan.io/address/0x3a0335409a0becd0da1ff6e442b9b6874d4e87a1#code)] ([Website](https://www.template.wtf/)) ([Opensea](https://opensea.io/collection/template))
 * Monster Blocks ([Website](https://www.monsterblocks.io/)) ([Opensea](https://opensea.io/collection/monster-blocks))
 
 ### Contract missing
