@@ -77,4 +77,5 @@ Things that still need to be categorized/organized:
 
 * MoonCats
 * Monster Blocks ([Website](https://www.monsterblocks.io/))
-* Fighter Turtles Club ([Website](https://www.fighterturtles.club/)) -- NO CONTRACT YET?
+* Fighter Turtles Club ([Website](https://www.fighterturtles.club/)) -- CONTRACT MISSING
+* GoosePunks NFT ([Website](https://goosepunks.com/)) -- CONTRACT MISSING
