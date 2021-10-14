@@ -73,8 +73,8 @@ We want to keep this listing below as inclusive as possible. This means that the
 
 ### Category candidate: hand-painted generative NFT
 
-* Surreals ([Contract](https://etherscan.io/address/0xa406489360a47af2c74fc1004316a64e469646a5#code)] ([Website](https://surreals.io/)) ([Opensea](https://opensea.io/collection/official-surreals))
-* Crypto Hobos ([Website](https://cryptohobos.io/)) ([Opensea](https://opensea.io/collection/crypto-hobos))
+* Surreals [[Contract](https://etherscan.io/address/0xa406489360a47af2c74fc1004316a64e469646a5#code)] ([Website](https://surreals.io/)) ([Opensea](https://opensea.io/collection/official-surreals))
+* Crypto Hobos [[Contract](https://etherscan.io/address/0xd153f0014db6d1f339c6340d2c9f59214355d9d7#code)] ([Website](https://cryptohobos.io/)) ([Opensea](https://opensea.io/collection/crypto-hobos))
 * Les Non Fongible Femmes ([Opensea](https://opensea.io/collection/les-non-fongible-femmes))
 * Femmeverse ([Opensea](https://opensea.io/collection/femmeverse))
 
