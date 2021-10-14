@@ -78,5 +78,6 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * **MoonCats ([Website](https://mooncat.community/))**
 * Monster Blocks [[Contract](https://etherscan.io/address/0xa56a4f2b9807311ac401c6afba695d3b0c31079d#code)] ([Website](https://www.monsterblocks.io/)) ([Opensea](https://opensea.io/collection/monster-blocks))
 * Museum - The White Room ([Website](https://www.museum-refined.art/)) ([Opensea](https://opensea.io/collection/museum-the-white-room))
+* NFT Worlds [[Contract](https://etherscan.io/address/0xbd4455da5929d5639ee098abfaa3241e9ae111af#code)] ([Website](https://www.nftworlds.com/)) ([Opensea](https://opensea.io/collection/nft-worlds))
 * Template [[Contract](https://etherscan.io/address/0x3a0335409a0becd0da1ff6e442b9b6874d4e87a1#code)] ([Website](https://www.template.wtf/)) ([Opensea](https://opensea.io/collection/template))
 
