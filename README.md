@@ -49,7 +49,6 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 ## Loot NFTs
 
 * Loot (for Adventurers) ([Opensea](https://opensea.io/collection/lootproject))
-
 * Abstract Loot ([Opensea](https://opensea.io/collection/abstract-loot))
 * Bloot (not for Weaks) ([Opensea](https://opensea.io/collection/blootofficial))
 * Bloot Girls ([Opensea](https://opensea.io/collection/blootgirl))
