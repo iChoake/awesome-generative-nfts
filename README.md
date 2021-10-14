@@ -2,7 +2,7 @@
 
 A curated list of Non Fungible Tokens (NFT, ERC721, ERC1155) on Ethereum that have been organized according their corresponding generic themes.
 
-**Actually Awesome NFTs are:**
+**Non-generic NFTs are:**
 
 * Crypto Punks ([Website](https://www.larvalabs.com/cryptopunks)) ([Opensea](https://opensea.io/collection/cryptopunks))
 * Bored Ape Yacht Club ([Website](https://boredapeyachtclub.com/)) ([Opensea](https://opensea.io/collection/boredapeyachtclub))
