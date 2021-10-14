@@ -4,7 +4,7 @@ A curated list of generative Non Fungible Tokens (NFT, ERC721, ERC1155) organize
 
 Disclaimer: we want to keep this listing below as inclusive as possible. This means that the criteria for entering the list is intentionally very loose. Functional websites are NOT required. Marketplace verifications are NOT required. We have NOT verified the smart contracts. The listings are NOT endorsements. They can also contain errors or mistakes. DO YOUR OWN RESEARCH.
 
-**Bolding** is used throughout the listings to make those collections stand out that we believe are the genesis collections for that certain category.
+**Bolding** is used throughout the listings to make those collections stand out that we believe are the genesis collections for that certain category, although sometimes it can be debateable.
 
 ## Punk NFTs
 
