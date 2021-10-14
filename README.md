@@ -1,6 +1,6 @@
 # Awesome Generative NFTs
 
-A curated list of generative Non Fungible Tokens (NFT, ERC721, ERC1155) organized by their primarily distinguishing themes into categories. Only Ethereum NFTs are listed.
+A curated list of generative Non Fungible Tokens (NFT, ERC721) organized by their primarily distinguishing themes into categories. Only Ethereum NFTs are listed.
 
 **Bolding** is used throughout the listings to make those collections stand out that we believe are the genesis collections for that certain category, although sometimes it can be debateable.
 
