@@ -64,6 +64,10 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Loot (for Cyberpunks) ([Opensea](https://opensea.io/collection/loot-for-cyberpunks))
 * InventoryNFT ([Website](https://www.inventorynft.net/)) ([Opensea](https://opensea.io/collection/inventorynft))
 
+## Play to Earn NFTs
+
+* Galaxy Fight Club ([Website](https://galaxyfightclub.com/)) ([Opensea](https://opensea.io/collection/galaxy-fight-club))
+
 ## Mutable NFTs
 
 * **MoonCats ([Website](https://mooncat.community/))**
