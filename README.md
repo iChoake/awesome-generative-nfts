@@ -10,7 +10,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 * **Bored Ape Yacht Club ([Website](https://boredapeyachtclub.com/)) ([Opensea](https://opensea.io/collection/boredapeyachtclub))**
 * Altdoges ([Website](https://www.altdoges.com/)) ([Opensea](https://opensea.io/collection/altdoges))
-* Angry Boards ([Opensea](https://opensea.io/collection/angryboarsnft))
+* Angry Boars ([Website](https://www.angryboars.com/)) ([Opensea](https://opensea.io/collection/angryboarsnft))
 * Animal Society NFTs ([Website](https://animalsocietynft.com/))
 * Ape Gang ([Website](https://apegang.art/)) ([Opensea](https://opensea.io/collection/ape-gang))
 * Bad Bunnies ([Website](https://badbunniesnft.com/)) ([Opensea](https://opensea.io/collection/bad-bunnies-nft))
