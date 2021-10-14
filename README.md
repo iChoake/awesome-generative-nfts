@@ -77,6 +77,7 @@ We want to keep this listing below as inclusive as possible. This means that the
 * Crypto Hobos [[Contract](https://etherscan.io/address/0xd153f0014db6d1f339c6340d2c9f59214355d9d7#code)] ([Website](https://cryptohobos.io/)) ([Opensea](https://opensea.io/collection/crypto-hobos))
 * Les Non Fongible Femmes [[Contract](https://etherscan.io/address/0xc1b2118a3995778a55282759a58207c2f5dcc186#code)] ([Opensea](https://opensea.io/collection/les-non-fongible-femmes))
 * Femmeverse [[Contract](https://etherscan.io/address/0xa1caae7da6df6831d48e40a383528ac897664bf2#code)] ([Opensea](https://opensea.io/collection/femmeverse))
+* Pumpametti [[Contract](https://etherscan.io/address/0x09646c5c1e42ede848a57d6542382c32f2877164#code)] ([Opensea](https://opensea.io/collection/pumpametti))
 
 ### Other candidates
 
