@@ -39,6 +39,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Rocket Riders NFT ([Website](https://www.rocketridersnft.com/)) ([Opensea](https://opensea.io/collection/rocketridersnft))
 * Rumble Kong League ([Opensea](https://opensea.io/collection/rumble-kong-league))
 * Samurai Doge ([Website](https://samuraidoge.net/)) ([Opensea](https://opensea.io/collection/samuraidoge))
+* Secret Society of Whales [[Contract](https://etherscan.io/address/0x88091012eedF8Dba59D08e27Ed7B22008F5d6fe5#code)] ([Website](https://www.secretsocietyofwhales.com/))
 * Stoner Cats ([Website](https://www.stonercats.com/)) ([Opensea](https://opensea.io/collection/stoner-cats-official))
 * The Alien Boy ([Website](https://www.thealienboy.com/)) ([Opensea](https://opensea.io/collection/thealienboy))
 * Wanna Panda ([Website](https://wannapanda.com/)) ([Opensea](https://opensea.io/collection/wannapandaofficial))
