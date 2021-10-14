@@ -81,6 +81,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 * **Crypto Punks ([Website](https://www.larvalabs.com/cryptopunks)) ([Opensea](https://opensea.io/collection/cryptopunks))**
 * 3DPunks ([Website](https://3d-punks.com/)) ([Opensea](https://opensea.io/collection/3dpunks))
+* Business Punks Official ([Opensea](https://opensea.io/collection/business-punks-official))
 * COVIDPunks! ([Website](https://www.covidpunks.com/)) ([Opensea](https://opensea.io/collection/covidpunksnft))
 
 ## Women NFTs
