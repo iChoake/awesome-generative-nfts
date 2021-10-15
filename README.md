@@ -96,3 +96,4 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Capsule House ([Website](https://capsulehouse.io/)) ([Opensea](https://opensea.io/collection/capsulehouse))
 * Galaxy Fight Club ([Website](https://galaxyfightclub.com/)) ([Opensea](https://opensea.io/collection/galaxy-fight-club))
 * Legends of Supernatural ([Opensea](https://opensea.io/collection/legendsofsupernatural))
+* Jungle Freaks ([Opensea](https://opensea.io/collection/jungle-freaks-by-trosley))
