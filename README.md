@@ -67,6 +67,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Bloot (not for Weaks) ([Opensea](https://opensea.io/collection/blootofficial))
 * Bloot Girls ([Opensea](https://opensea.io/collection/blootgirl))
 * Extension Loot (for Adventurers) ([Opensea](https://opensea.io/collection/xloot))
+* Gear (for Punks) ([Opensea](https://opensea.io/collection/gear-for-punks))
 * Loot (for Cyberpunks) ([Opensea](https://opensea.io/collection/loot-for-cyberpunks))
 * InventoryNFT ([Website](https://www.inventorynft.net/)) ([Opensea](https://opensea.io/collection/inventorynft))
 
