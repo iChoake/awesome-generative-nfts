@@ -41,7 +41,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Rumble Kong League ([Opensea](https://opensea.io/collection/rumble-kong-league))
 * Samurai Doge ([Website](https://samuraidoge.net/)) ([Opensea](https://opensea.io/collection/samuraidoge))
 * Secret Society of Whales [[Contract](https://etherscan.io/address/0x88091012eedF8Dba59D08e27Ed7B22008F5d6fe5#code)] ([Website](https://www.secretsocietyofwhales.com/))
-* SpacePunksClub ([Website](https://www.spacepunks.club/)) ([Opensea](https://opensea.io/collection/space-punks-club))
+* SpacePunksClub [[Contract](https://etherscan.io/address/0x45db714f24f5a313569c41683047f1d49e78ba07#code)] ([Website](https://www.spacepunks.club/)) ([Opensea](https://opensea.io/collection/space-punks-club))
 * Space Dinos Club ([Opensea](https://opensea.io/collection/space-dinos-club))
 * Stoner Cats ([Website](https://www.stonercats.com/)) ([Opensea](https://opensea.io/collection/stoner-cats-official))
 * The Alien Boy ([Website](https://www.thealienboy.com/)) ([Opensea](https://opensea.io/collection/thealienboy))
