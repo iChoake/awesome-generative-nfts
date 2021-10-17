@@ -98,6 +98,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 * Ethereum Towers [[Contract with OPENSTORE](https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e)] ([Opensea](https://opensea.io/collection/ethereum-towers))
 * NFT Worlds [[Contract](https://etherscan.io/address/0xbd4455da5929d5639ee098abfaa3241e9ae111af#code)] ([Website](https://www.nftworlds.com/)) ([Opensea](https://opensea.io/collection/nft-worlds))
+* The Sandbox ([Opensea](https://opensea.io/collection/sandbox))
 
 ## Women NFTs
 
