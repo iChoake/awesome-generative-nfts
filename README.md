@@ -34,6 +34,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Lonely Frog Lambo Club ([Website](https://www.lonelyfroglamboclub.com/)) ([Opensea](https://opensea.io/collection/thelonelyfroglamboclub))
 * Lysergic Labs Shroomz ([Opensea](https://opensea.io/collection/lysergiclabsshroomz))
 * Mr. Bojangles - Sleepy Sloth ([Opensea](https://opensea.io/collection/sleepy-mrbojangles))
+* NiftyRiots ([Opensea](https://opensea.io/collection/niftyriots))
 * OnChainCat ([Website](https://onchaincat.com/)) ([Opensea](https://opensea.io/collection/onchaincat))
 * OnChainMonkey ([Website](https://onchainmonkey.com/)) ([Opensea](https://opensea.io/collection/onchainmonkey))
 * Panda Dynasty ([Website](https://pandadynasty.io/)) ([Opensea](https://opensea.io/collection/pandadynasty))
