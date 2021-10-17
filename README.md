@@ -74,6 +74,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 ## Meme NFTs
 
 * My Fucking Pickle ([Website](https://www.myfuckingpickle.io/)) ([Opensea](https://opensea.io/collection/myfuckingpickle))
+* Tord-O Turds ([Opensea](https://opensea.io/collection/turd-o))
 
 ## Mutable NFTs
 
