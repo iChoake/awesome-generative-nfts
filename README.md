@@ -30,7 +30,6 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Evolved Apes Inc ~~([Website](https://www.evolvedapes.com/))~~ ([Opensea](https://opensea.io/collection/evolved-apes-inc))
 * EtherCats ([Website](https://www.ethercats.io/)) ([Opensea](https://opensea.io/collection/ethercats))
 * Galactic Secret Agency ([Website](https://www.galacticsecretagency.com/)) ([Opensea](https://opensea.io/collection/galactic-secret-agency))
-* Goons of Balatroon ([Opensea](https://opensea.io/collection/goonsofbalatroon))
 * Janky Heist ([Website](https://jankyheist.com/)) ([Opensea](https://opensea.io/collection/jankyheist))
 * Lonely Frog Lambo Club ([Website](https://www.lonelyfroglamboclub.com/)) ([Opensea](https://opensea.io/collection/thelonelyfroglamboclub))
 * Lysergic Labs Shroomz ([Opensea](https://opensea.io/collection/lysergiclabsshroomz))
@@ -52,6 +51,11 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Wanna Panda ([Website](https://wannapanda.com/)) ([Opensea](https://opensea.io/collection/wannapandaofficial))
 * Whatty Club ([Website](https://whatty.club/))
 * Winter Bears ([Website](https://www.winterbearsnft.com/)) ([Opensea](https://opensea.io/collection/winterbears))
+
+## Game-backed NFTs
+
+* Goons of Balatroon ([Opensea](https://opensea.io/collection/goonsofbalatroon))
+* Galaxy Fight Club ([Website](https://galaxyfightclub.com/)) ([Opensea](https://opensea.io/collection/galaxy-fight-club))
 
 ## Hand-painted NFTs
 
@@ -112,7 +116,6 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 ## (Unclassified)
 
 * Capsule House ([Website](https://capsulehouse.io/)) ([Opensea](https://opensea.io/collection/capsulehouse))
-* Galaxy Fight Club ([Website](https://galaxyfightclub.com/)) ([Opensea](https://opensea.io/collection/galaxy-fight-club))
 * Game Disease ([Twitter](https://twitter.com/gamedisease_))
 * Legends of Supernatural ([Opensea](https://opensea.io/collection/legendsofsupernatural))
 * Jungle Freaks ([Opensea](https://opensea.io/collection/jungle-freaks-by-trosley))
