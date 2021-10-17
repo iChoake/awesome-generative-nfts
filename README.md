@@ -73,6 +73,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 ## Meme NFTs
 
+* DOGSHIT NFT's ([Website](www.dogshitnfts.com)) ([Opensea](https://opensea.io/collection/dogshitnfts))
 * My Fucking Pickle ([Website](https://www.myfuckingpickle.io/)) ([Opensea](https://opensea.io/collection/myfuckingpickle))
 * Tord-O Turds ([Opensea](https://opensea.io/collection/turd-o))
 
