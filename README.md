@@ -71,6 +71,10 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Loot (for Cyberpunks) ([Opensea](https://opensea.io/collection/loot-for-cyberpunks))
 * InventoryNFT ([Website](https://www.inventorynft.net/)) ([Opensea](https://opensea.io/collection/inventorynft))
 
+## Meme NFTs
+
+* My Fucking Pickle ([Website](https://www.myfuckingpickle.io/)) ([Opensea](https://opensea.io/collection/myfuckingpickle))
+
 ## Mutable NFTs
 
 * **MoonCats ([Website](https://mooncat.community/))** ([Opensea (unofficial wrapper)](https://opensea.io/collection/wrapped-mooncatsrescue)) ([Opensea (official wrapper)](https://opensea.io/collection/acclimatedmooncats))
