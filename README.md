@@ -82,6 +82,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 ## Meme NFTs
 
+* CryptoDickbutts ([Opensea](https://opensea.io/collection/cryptodickbutts-s3))
 * DOGSHIT NFT's ([Website](https://www.dogshitnfts.com)) ([Opensea](https://opensea.io/collection/dogshitnfts))
 * My Fucking Pickle ([Website](https://www.myfuckingpickle.io/)) ([Opensea](https://opensea.io/collection/myfuckingpickle))
 * Turd-O Turds ([Opensea](https://opensea.io/collection/turd-o))
