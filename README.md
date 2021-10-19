@@ -94,7 +94,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 ## Mutable NFTs
 
 * **MoonCats ([Website](https://mooncat.community/))** ([Opensea (unofficial wrapper)](https://opensea.io/collection/wrapped-mooncatsrescue)) ([Opensea (official wrapper)](https://opensea.io/collection/acclimatedmooncats))
-* Dogs Unchained ([Opensea](https://opensea.io/collection/dogs-unchained))
+* Dogs Unchained ([Website](https://www.dogsunchainednft.com/)) ([Opensea](https://opensea.io/collection/dogs-unchained))
 * Monster Blocks [[Contract](https://etherscan.io/address/0xa56a4f2b9807311ac401c6afba695d3b0c31079d#code)] ([Website](https://www.monsterblocks.io/)) ([Opensea](https://opensea.io/collection/monster-blocks))
 * Museum - The White Room ([Website](https://www.museum-refined.art/)) ([Opensea](https://opensea.io/collection/museum-the-white-room))
 * NFT Worlds [[Contract](https://etherscan.io/address/0xbd4455da5929d5639ee098abfaa3241e9ae111af#code)] ([Website](https://www.nftworlds.com/)) ([Opensea](https://opensea.io/collection/nft-worlds))
