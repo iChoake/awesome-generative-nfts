@@ -55,10 +55,11 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Wanna Panda ([Website](https://wannapanda.com/)) ([Opensea](https://opensea.io/collection/wannapandaofficial))
 * Winter Bears ([Website](https://www.winterbearsnft.com/)) ([Opensea](https://opensea.io/collection/winterbears))
 
-## Game-backed NFTs
+## Play to Earn NFTs
 
 * Goons of Balatroon ([Opensea](https://opensea.io/collection/goonsofbalatroon))
 * Galaxy Fight Club ([Website](https://galaxyfightclub.com/)) ([Opensea](https://opensea.io/collection/galaxy-fight-club))
+* Luchadores.io ([Website](https://luchadores.io/)) ([Opensea](https://opensea.io/collection/luchadores-io))
 
 ## Hand-painted NFTs
 
