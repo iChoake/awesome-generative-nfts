@@ -53,7 +53,6 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * The Alien Boy ([Website](https://www.thealienboy.com/)) ([Opensea](https://opensea.io/collection/thealienboy))
 * The Doge Pound [[Contract](https://etherscan.io/address/0xf4ee95274741437636e748ddac70818b4ed7d043#code)] ([Website](https://thedogepoundnft.com/)) ([Opensea](https://opensea.io/collection/the-doge-pound))
 * Wanna Panda ([Website](https://wannapanda.com/)) ([Opensea](https://opensea.io/collection/wannapandaofficial))
-* Whatty Club ([Website](https://whatty.club/))
 * Winter Bears ([Website](https://www.winterbearsnft.com/)) ([Opensea](https://opensea.io/collection/winterbears))
 
 ## Game-backed NFTs
@@ -126,7 +125,9 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 ## Awaiting for details / categorization
 
 * Capsule House ([Website](https://capsulehouse.io/)) ([Opensea](https://opensea.io/collection/capsulehouse))
+* Chameleon Collective ([Website](https://chameleoncollective.io/))
 * Fishbowl Heads ([Website](https://fishbowlheads.com/))
 * Game Disease ([Twitter](https://twitter.com/gamedisease_))
 * Legends of Supernatural ([Opensea](https://opensea.io/collection/legendsofsupernatural))
 * Pixel Doomers ([Website](https://pixeldoomers.club/))
+* Whatty Club ([Website](https://whatty.club/))
