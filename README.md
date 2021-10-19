@@ -121,7 +121,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 ## Awaiting for details / categorization
 
 * Capsule House ([Website](https://capsulehouse.io/)) ([Opensea](https://opensea.io/collection/capsulehouse))
-* ElementBlocks ([Website](https://elementblocks.org/))
+* ElementBlocks ([Website](https://elementblocks.org/)) ([Opensea](https://opensea.io/collection/elementblocks/))
 * Fishbowl HEads ([Website](https://fishbowlheads.com/))
 * Game Disease ([Twitter](https://twitter.com/gamedisease_))
 * Legends of Supernatural ([Opensea](https://opensea.io/collection/legendsofsupernatural))
