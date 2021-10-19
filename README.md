@@ -127,3 +127,4 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Fishbowl Heads ([Website](https://fishbowlheads.com/))
 * Game Disease ([Twitter](https://twitter.com/gamedisease_))
 * Legends of Supernatural ([Opensea](https://opensea.io/collection/legendsofsupernatural))
+* Pixel Doomers ([Website](https://pixeldoomers.club/))
