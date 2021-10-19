@@ -68,6 +68,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Jungle Freaks [[Contract](https://etherscan.io/address/0x7e6bc952d4b4bd814853301bee48e99891424de0#code)] ([Opensea](https://opensea.io/collection/jungle-freaks-by-trosley))
 * Les Non Fongible Femmes [[Contract](https://etherscan.io/address/0xc1b2118a3995778a55282759a58207c2f5dcc186#code)] ([Opensea](https://opensea.io/collection/les-non-fongible-femmes))
 * Pettametti [[Contract](https://etherscan.io/address/0x52474fbf6b678a280d0c69f2314d6d95548b3daf#code)] ([Opensea](https://opensea.io/collection/pettametti))
+* Primate Social Society [[Contract](https://etherscan.io/address/0x76e51bc8fa0beebcf3e45de408fa43c9dc5ffb27#code)] ([Website](https://www.primatesocialsociety.com/)) ([Opensea](https://opensea.io/collection/primate-social-society-official))
 * Pumpametti [[Contract](https://etherscan.io/address/0x09646c5c1e42ede848a57d6542382c32f2877164#code)] ([Opensea](https://opensea.io/collection/pumpametti))
 * Standametti [[Contract](https://etherscan.io/address/0xfc6bc5d50912354e89bad4dabf053bca2d7cd817#code)] ([Opensea](https://opensea.io/collection/standametti))
 * Surreals [[Contract](https://etherscan.io/address/0xa406489360a47af2c74fc1004316a64e469646a5#code)] ([Website](https://surreals.io/)) ([Opensea](https://opensea.io/collection/official-surreals))
