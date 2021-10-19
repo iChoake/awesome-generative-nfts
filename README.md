@@ -30,7 +30,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Evolved Apes Inc ~~([Website](https://www.evolvedapes.com/))~~ ([Opensea](https://opensea.io/collection/evolved-apes-inc))
 * EtherCats ([Website](https://www.ethercats.io/)) ([Opensea](https://opensea.io/collection/ethercats))
 * Galactic Secret Agency ([Website](https://www.galacticsecretagency.com/)) ([Opensea](https://opensea.io/collection/galactic-secret-agency))
-* Ghoulies NFT ([Website](https://ghouliesnft.com/)) ([Opensea](https://opensea.io/collection/ghouliesnft))
+* Ghoulies NFT [[Contract](https://etherscan.io/address/0x2570f12074ac007aec09426c5d092dd2a1fa3e5f#code)] ([Website](https://ghouliesnft.com/)) ([Opensea](https://opensea.io/collection/ghouliesnft))
 * Janky Heist ([Website](https://jankyheist.com/)) ([Opensea](https://opensea.io/collection/jankyheist))
 * Lonely Frog Lambo Club ([Website](https://www.lonelyfroglamboclub.com/)) ([Opensea](https://opensea.io/collection/thelonelyfroglamboclub))
 * Lysergic Labs Shroomz ([Opensea](https://opensea.io/collection/lysergiclabsshroomz))
