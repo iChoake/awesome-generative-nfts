@@ -118,10 +118,12 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Crypto Chicks ([Website](https://www.cryptochicks.app/)) ([Opensea](https://opensea.io/collection/the-crypto-chicks))
 * FameLadySquad ([Website](https://www.fameladysquad.com/)) ([Opensea](https://opensea.io/collection/fameladysquad))
 
+## Non-generative NFTs
+* ElementBlocks ([Website](https://elementblocks.org/)) ([Opensea](https://opensea.io/collection/elementblocks/))
+
 ## Awaiting for details / categorization
 
 * Capsule House ([Website](https://capsulehouse.io/)) ([Opensea](https://opensea.io/collection/capsulehouse))
-* ElementBlocks ([Website](https://elementblocks.org/)) ([Opensea](https://opensea.io/collection/elementblocks/))
-* Fishbowl HEads ([Website](https://fishbowlheads.com/))
+* Fishbowl Heads ([Website](https://fishbowlheads.com/))
 * Game Disease ([Twitter](https://twitter.com/gamedisease_))
 * Legends of Supernatural ([Opensea](https://opensea.io/collection/legendsofsupernatural))
