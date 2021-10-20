@@ -39,7 +39,6 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Mr. Bojangles - Sleepy Sloth ([Opensea](https://opensea.io/collection/sleepy-mrbojangles))
 * NiftyRiots ([Opensea](https://opensea.io/collection/niftyriots))
 * OnChainCat ([Website](https://onchaincat.com/)) ([Opensea](https://opensea.io/collection/onchaincat))
-* OnChainMonkey ([Website](https://onchainmonkey.com/)) ([Opensea](https://opensea.io/collection/onchainmonkey))
 * Panda Dynasty ([Website](https://pandadynasty.io/)) ([Opensea](https://opensea.io/collection/pandadynasty))
 * Pixel Pussies ([Website](https://pixelpussy.io/))
 * Pixel.Unicorns ([Opensea](https://opensea.io/collection/pixel-unicorns-))
@@ -55,12 +54,6 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Wanna Panda ([Website](https://wannapanda.com/)) ([Opensea](https://opensea.io/collection/wannapandaofficial))
 * Winter Bears ([Website](https://www.winterbearsnft.com/)) ([Opensea](https://opensea.io/collection/winterbears))
 
-## Play to Earn NFTs
-
-* Goons of Balatroon ([Opensea](https://opensea.io/collection/goonsofbalatroon))
-* Galaxy Fight Club ([Website](https://galaxyfightclub.com/)) ([Opensea](https://opensea.io/collection/galaxy-fight-club))
-* Luchadores.io ([Website](https://luchadores.io/)) ([Opensea](https://opensea.io/collection/luchadores-io))
-
 ## Hand-painted NFTs
 
 * **Crypto Hobos [[Contract](https://etherscan.io/address/0xd153f0014db6d1f339c6340d2c9f59214355d9d7#code)] ([Website](https://cryptohobos.io/)) ([Opensea](https://opensea.io/collection/crypto-hobos))**
@@ -72,6 +65,17 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Pumpametti [[Contract](https://etherscan.io/address/0x09646c5c1e42ede848a57d6542382c32f2877164#code)] ([Opensea](https://opensea.io/collection/pumpametti))
 * Standametti [[Contract](https://etherscan.io/address/0xfc6bc5d50912354e89bad4dabf053bca2d7cd817#code)] ([Opensea](https://opensea.io/collection/standametti))
 * Surreals [[Contract](https://etherscan.io/address/0xa406489360a47af2c74fc1004316a64e469646a5#code)] ([Website](https://surreals.io/)) ([Opensea](https://opensea.io/collection/official-surreals))
+
+## On-Chain NFTs
+
+* cMyKatz ([Opensea](https://opensea.io/collection/cmykatz-nfts))
+* OnChainMonkey ([Website](https://onchainmonkey.com/)) ([Opensea](https://opensea.io/collection/onchainmonkey))
+
+## Play to Earn NFTs
+
+* Goons of Balatroon ([Opensea](https://opensea.io/collection/goonsofbalatroon))
+* Galaxy Fight Club ([Website](https://galaxyfightclub.com/)) ([Opensea](https://opensea.io/collection/galaxy-fight-club))
+* Luchadores.io ([Website](https://luchadores.io/)) ([Opensea](https://opensea.io/collection/luchadores-io))
 
 ## Loot NFTs
 
