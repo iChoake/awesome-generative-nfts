@@ -146,6 +146,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Pixel Doomers ([Website](https://pixeldoomers.club/))
 * Whatty Club ([Website](https://whatty.club/))
 * Sharkies NFT ([Website](https://www.sharkies.io/))
+* Woke Workaholics ([Website](https://wokeworkaholics.io/))
 
 ### Excluded as not generative
 
