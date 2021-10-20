@@ -30,6 +30,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Cupcats [[Contract](https://etherscan.io/address/0x8cd8155e1af6ad31dd9eec2ced37e04145acfcb3#code)] ([Website](https://www.cupcatnft.com/)) ([Opensea](https://opensea.io/collection/cupcatsofficial))
 * DRRT [[Contract](https://etherscan.io/address/0xf506f1ab233c72a424f1b83e055cbfb0ca0dbca1#code)] ([Opensea](https://opensea.io/collection/drrt))
 * Dogepunks ([Website](https://dogepunks.com/)) ([Opensea](https://opensea.io/collection/dogepunks))
+* Doodles ([Website](https://doodles.app/)) ([Opensea](https://opensea.io/collection/doodles-official))
 * Evolved Apes Inc ~~([Website](https://www.evolvedapes.com/))~~ ([Opensea](https://opensea.io/collection/evolved-apes-inc))
 * EtherCats ([Website](https://www.ethercats.io/)) ([Opensea](https://opensea.io/collection/ethercats))
 * Galactic Secret Agency ([Website](https://www.galacticsecretagency.com/)) ([Opensea](https://opensea.io/collection/galactic-secret-agency))
