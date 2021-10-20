@@ -126,9 +126,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Crypto Chicks ([Website](https://www.cryptochicks.app/)) ([Opensea](https://opensea.io/collection/the-crypto-chicks))
 * FameLadySquad ([Website](https://www.fameladysquad.com/)) ([Opensea](https://opensea.io/collection/fameladysquad))
 
-## Non-generative NFTs
-* ElementBlocks ([Website](https://elementblocks.org/)) ([Opensea](https://opensea.io/collection/elementblocks/))
-* Ghxsts ([Opensea](https://opensea.io/collection/ghxsts))
+---
 
 ## Awaiting for details / categorization
 
@@ -140,3 +138,8 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Pixel Doomers ([Website](https://pixeldoomers.club/))
 * Whatty Club ([Website](https://whatty.club/))
 * Sharkies NFT ([Website](https://www.sharkies.io/))
+
+## Excluded as not generative
+
+* ElementBlocks ([Website](https://elementblocks.org/)) ([Opensea](https://opensea.io/collection/elementblocks/))
+* Ghxsts ([Opensea](https://opensea.io/collection/ghxsts))
