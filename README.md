@@ -88,6 +88,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Adventure Cards [[Contract](https://etherscan.io/address/0x329fd5e0d9aad262b13ca07c87d001bec716ed39#code)] ([Website](https://0xadventures.com/)) ([Opensea](https://opensea.io/collection/adventure-cards))
 * Bloot (not for Weaks) ([Opensea](https://opensea.io/collection/blootofficial))
 * Bloot Girls ([Opensea](https://opensea.io/collection/blootgirl))
+* Characters (for Adventurers) ([Opensea](https://opensea.io/collection/characters-for-loot))
 * Extension Loot (for Adventurers) ([Opensea](https://opensea.io/collection/xloot))
 * Gear (for Punks) ([Opensea](https://opensea.io/collection/gear-for-punks))
 * OBD Moon Loot [[Contract](https://etherscan.io/address/0x69f6be3dfb9e87f4d85fd9f61560ce3f18c7944a#code)] ([Website](https://onedaybae.io/)) ([Opensea](https://opensea.io/collection/odb-moon-loot))
