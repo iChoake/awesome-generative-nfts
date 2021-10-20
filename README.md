@@ -42,6 +42,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * NiftyRiots ([Opensea](https://opensea.io/collection/niftyriots))
 * OnChainCat ([Website](https://onchaincat.com/)) ([Opensea](https://opensea.io/collection/onchaincat))
 * Panda Dynasty ([Website](https://pandadynasty.io/)) ([Opensea](https://opensea.io/collection/pandadynasty))
+* Party Degenerates [[Contract](https://etherscan.io/address/0x4be3223f8708ca6b30d1e8b8926cf281ec83e770#code)] ([Website](https://partydegenerates.com/)) ([Opensea](https://opensea.io/PartyDegenerates))
 * Pixel Pussies ([Website](https://pixelpussy.io/))
 * Pixel.Unicorns ([Opensea](https://opensea.io/collection/pixel-unicorns-))
 * Rocket Riders NFT ([Website](https://www.rocketridersnft.com/)) ([Opensea](https://opensea.io/collection/rocketridersnft))
