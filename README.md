@@ -128,7 +128,11 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 ---
 
-## Awaiting for details / categorization
+## Backlog
+
+**We are looking into include these collections or have excluded them as not generative. Anothing below this fold should be considered to be not in the main list.**
+
+### Awaiting for details / categorization
 
 * Capsule House ([Website](https://capsulehouse.io/)) ([Opensea](https://opensea.io/collection/capsulehouse))
 * Chameleon Collective ([Website](https://chameleoncollective.io/))
@@ -139,7 +143,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Whatty Club ([Website](https://whatty.club/))
 * Sharkies NFT ([Website](https://www.sharkies.io/))
 
-## Excluded as not generative
+### Excluded as not generative
 
 * ElementBlocks ([Website](https://elementblocks.org/)) ([Opensea](https://opensea.io/collection/elementblocks/))
 * Ghxsts ([Opensea](https://opensea.io/collection/ghxsts))
