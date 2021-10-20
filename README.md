@@ -82,6 +82,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 * **Loot (for Adventurers) ([Opensea](https://opensea.io/collection/lootproject))**
 * Abstract Loot ([Opensea](https://opensea.io/collection/abstract-loot))
+* Adventure Cards [[Contract](https://etherscan.io/address/0x329fd5e0d9aad262b13ca07c87d001bec716ed39#code)] ([Website](https://0xadventures.com/)) ([Opensea](https://opensea.io/collection/adventure-cards))
 * Bloot (not for Weaks) ([Opensea](https://opensea.io/collection/blootofficial))
 * Bloot Girls ([Opensea](https://opensea.io/collection/blootgirl))
 * Extension Loot (for Adventurers) ([Opensea](https://opensea.io/collection/xloot))
