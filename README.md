@@ -95,6 +95,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Gear (for Punks) ([Opensea](https://opensea.io/collection/gear-for-punks))
 * OBD Moon Loot [[Contract](https://etherscan.io/address/0x69f6be3dfb9e87f4d85fd9f61560ce3f18c7944a#code)] ([Website](https://onedaybae.io/)) ([Opensea](https://opensea.io/collection/odb-moon-loot))
 * Loot (for Cyberpunks) ([Opensea](https://opensea.io/collection/loot-for-cyberpunks))
+* The Wicked Loot ([Website](https://wickedcranium.com/)) ([Opensea](https://opensea.io/collection/wickedloot))
 * InventoryNFT ([Website](https://www.inventorynft.net/)) ([Opensea](https://opensea.io/collection/inventorynft))
 
 ## Meme NFTs
