@@ -56,6 +56,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Stoner Cats ([Website](https://www.stonercats.com/)) ([Opensea](https://opensea.io/collection/stoner-cats-official))
 * The Alien Boy ([Website](https://www.thealienboy.com/)) ([Opensea](https://opensea.io/collection/thealienboy))
 * The Doge Pound [[Contract](https://etherscan.io/address/0xf4ee95274741437636e748ddac70818b4ed7d043#code)] ([Website](https://thedogepoundnft.com/)) ([Opensea](https://opensea.io/collection/the-doge-pound))
+* The Wicked Craniums [[Contract](https://etherscan.io/address/0x85f740958906b317de6ed79663012859067e745b#code)] ([Website](https://wickedcranium.com/)) ([Opensea](https://opensea.io/collection/thewickedcraniums))
 * Wanna Panda ([Website](https://wannapanda.com/)) ([Opensea](https://opensea.io/collection/wannapandaofficial))
 * Winter Bears ([Website](https://www.winterbearsnft.com/)) ([Opensea](https://opensea.io/collection/winterbears))
 
