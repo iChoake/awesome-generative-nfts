@@ -50,6 +50,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Pixel.Unicorns ([Opensea](https://opensea.io/collection/pixel-unicorns-))
 * Rocket Riders NFT ([Website](https://www.rocketridersnft.com/)) ([Opensea](https://opensea.io/collection/rocketridersnft))
 * Rumble Kong League ([Opensea](https://opensea.io/collection/rumble-kong-league))
+* Sad Girls Bar ([Website](https://sadgirlsbar.io/)) [[Contract](https://etherscan.io/address/0x335eeef8e93a7a757d9e7912044d9cd264e2b2d8#code)] ([Opensea](https://opensea.io/collection/sadgirlsbar))
 * Samurai Doge ([Website](https://samuraidoge.net/)) ([Opensea](https://opensea.io/collection/samuraidoge))
 * Secret Society of Whales [[Contract](https://etherscan.io/address/0x88091012eedF8Dba59D08e27Ed7B22008F5d6fe5#code)] ([Website](https://www.secretsocietyofwhales.com/))
 * SpacePunksClub [[Contract](https://etherscan.io/address/0x45db714f24f5a313569c41683047f1d49e78ba07#code)] ([Website](https://www.spacepunks.club/)) ([Opensea](https://opensea.io/collection/space-punks-club))
@@ -70,7 +71,6 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Pettametti [[Contract](https://etherscan.io/address/0x52474fbf6b678a280d0c69f2314d6d95548b3daf#code)] ([Opensea](https://opensea.io/collection/pettametti))
 * Primate Social Society [[Contract](https://etherscan.io/address/0x76e51bc8fa0beebcf3e45de408fa43c9dc5ffb27#code)] ([Website](https://www.primatesocialsociety.com/)) ([Opensea](https://opensea.io/collection/primate-social-society-official))
 * Pumpametti [[Contract](https://etherscan.io/address/0x09646c5c1e42ede848a57d6542382c32f2877164#code)] ([Opensea](https://opensea.io/collection/pumpametti))
-* Sad Girls Bar ([Website](https://sadgirlsbar.io/)) [[Contract](https://etherscan.io/address/0x335eeef8e93a7a757d9e7912044d9cd264e2b2d8#code)] ([Opensea](https://opensea.io/collection/sadgirlsbar))
 * Standametti [[Contract](https://etherscan.io/address/0xfc6bc5d50912354e89bad4dabf053bca2d7cd817#code)] ([Opensea](https://opensea.io/collection/standametti))
 * Surreals [[Contract](https://etherscan.io/address/0xa406489360a47af2c74fc1004316a64e469646a5#code)] ([Website](https://surreals.io/)) ([Opensea](https://opensea.io/collection/official-surreals))
 
