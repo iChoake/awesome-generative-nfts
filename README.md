@@ -37,6 +37,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Galactic Secret Agency ([Website](https://www.galacticsecretagency.com/)) ([Opensea](https://opensea.io/collection/galactic-secret-agency))
 * Ghoulies NFT [[Contract](https://etherscan.io/address/0x2570f12074ac007aec09426c5d092dd2a1fa3e5f#code)] ([Website](https://ghouliesnft.com/)) ([Opensea](https://opensea.io/collection/ghouliesnft))
 * Great Ape Society ([Opensea](https://opensea.io/collection/great-ape-society)]
+* Kaiju Kingz [[Contract](https://etherscan.io/address/0x0c2e57efddba8c768147d1fdf9176a0a6ebd5d83#code)] ([Opensea](https://opensea.io/collection/kaiju-kingz))
 * Janky Heist ([Website](https://jankyheist.com/)) ([Opensea](https://opensea.io/collection/jankyheist))
 * Lonely Frog Lambo Club ([Website](https://www.lonelyfroglamboclub.com/)) ([Opensea](https://opensea.io/collection/thelonelyfroglamboclub))
 * Lysergic Labs Shroomz ([Opensea](https://opensea.io/collection/lysergiclabsshroomz))
@@ -95,7 +96,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Gear (for Punks) ([Opensea](https://opensea.io/collection/gear-for-punks))
 * OBD Moon Loot [[Contract](https://etherscan.io/address/0x69f6be3dfb9e87f4d85fd9f61560ce3f18c7944a#code)] ([Website](https://onedaybae.io/)) ([Opensea](https://opensea.io/collection/odb-moon-loot))
 * Loot (for Cyberpunks) ([Opensea](https://opensea.io/collection/loot-for-cyberpunks))
-* The Wicked Loot ([Website](https://wickedcranium.com/)) ([Opensea](https://opensea.io/collection/wickedloot))
+* The Wicked Loot [[Contract](https://etherscan.io/address/0x7e9709fb8aa0e9cafc38667f56ea9456d2e79e4e#code)] ([Website](https://wickedcranium.com/)) ([Opensea](https://opensea.io/collection/wickedloot))
 * InventoryNFT ([Website](https://www.inventorynft.net/)) ([Opensea](https://opensea.io/collection/inventorynft))
 
 ## Meme NFTs
