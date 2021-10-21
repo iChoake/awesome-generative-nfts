@@ -61,7 +61,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Wanna Panda ([Website](https://wannapanda.com/)) ([Opensea](https://opensea.io/collection/wannapandaofficial))
 * Winter Bears ([Website](https://www.winterbearsnft.com/)) ([Opensea](https://opensea.io/collection/winterbears))
 
-## Hand-painted NFTs
+## Hand-drawn / hand-painted NFTs
 
 * **Crypto Hobos [[Contract](https://etherscan.io/address/0xd153f0014db6d1f339c6340d2c9f59214355d9d7#code)] ([Website](https://cryptohobos.io/)) ([Opensea](https://opensea.io/collection/crypto-hobos))**
 * Femmeverse [[Contract](https://etherscan.io/address/0xa1caae7da6df6831d48e40a383528ac897664bf2#code)] ([Website](https://femmeverse.space/)) ([Opensea](https://opensea.io/collection/femmeverse))
