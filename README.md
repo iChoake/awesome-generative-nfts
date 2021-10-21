@@ -22,7 +22,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Claylings ([Opensea](https://opensea.io/collection/theclaylings))
 * Chibi Apes ([Website](https://chibiapes.com/)) ([Opensea](https://opensea.io/collection/chibi-apes))
 * Creature World NFT ([Website](https://creature.world/)) ([Opensea](https://opensea.io/collection/creature-world-collection))
-* Concrete Park Bangers [[Closed Source Contract](https://etherscan.io/address/0xcb4bf3d88c9f61b6c14397eb83e846094e4e8064#code)] ([Website](https://www.concretepark.com/)) ([Opensea](Concrete Park Bangers))
+* Concrete Park Bangers [[Contract (Closed source)](https://etherscan.io/address/0xcb4bf3d88c9f61b6c14397eb83e846094e4e8064#code)] ([Website](https://www.concretepark.com/)) ([Opensea](https://opensea.io/collection/concrete-park-bangers))
 * Crypto Dolphins ([Opensea](https://opensea.io/collection/cryptodolphins))
 * Crypto Duckies ([Website](https://www.cryptoduckies.co/)) ([Opensea](https://opensea.io/collection/crypto-duckies))
 * Crypto Pugs ([Opensea](https://opensea.io/collection/crypto-pugs))
