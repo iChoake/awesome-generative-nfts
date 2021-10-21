@@ -153,7 +153,8 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Sharkies NFT ([Website](https://www.sharkies.io/))
 * Woke Workaholics ([Website](https://wokeworkaholics.io/))
 
-### Excluded as not generative
+### Excluded (non-generative, closed source)
 
 * ElementBlocks ([Website](https://elementblocks.org/)) ([Opensea](https://opensea.io/collection/elementblocks/))
 * Ghxsts ([Opensea](https://opensea.io/collection/ghxsts))
+* OnChain Panda ([Opensea](https://opensea.io/collection/onchain-panda))
