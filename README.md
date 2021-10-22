@@ -4,6 +4,8 @@ A curated list of generative Non Fungible Tokens (NFT, ERC721) organized by thei
 
 **Bolding** is used throughout the listings to make those collections stand out that we believe are the genesis collections for that certain category, although sometimes it can be debateable.
 
+**Warning symbol** (⚠️) is used to indicate listings that are contain some of the known issues. Not having a warning symbol does not mean such listings are free from any known issues. Regardless, special attention should be paid to these listings.
+
 Disclaimer: we want to keep this listing below as inclusive as possible. This means that the criteria for entering the list is intentionally very loose. Functional websites are NOT required. Marketplace verifications are NOT required. We have NOT verified the smart contracts. The listings are NOT endorsements. They can also contain errors or mistakes. DO YOUR OWN RESEARCH.
 
 ## Adjective-creature-fam NFTs
@@ -32,7 +34,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * DRRT [[Contract](https://etherscan.io/address/0xf506f1ab233c72a424f1b83e055cbfb0ca0dbca1#code)] ([Opensea](https://opensea.io/collection/drrt))
 * Dogepunks ([Website](https://dogepunks.com/)) ([Opensea](https://opensea.io/collection/dogepunks))
 * Doodles ([Website](https://doodles.app/)) ([Opensea](https://opensea.io/collection/doodles-official))
-* Evolved Apes Inc ~~([Website](https://www.evolvedapes.com/))~~ ([Opensea](https://opensea.io/collection/evolved-apes-inc))
+* ⚠️ Evolved Apes Inc ~~([Website](https://www.evolvedapes.com/))~~ ([Opensea](https://opensea.io/collection/evolved-apes-inc))
 * EtherCats ([Website](https://www.ethercats.io/)) ([Opensea](https://opensea.io/collection/ethercats))
 * Galactic Secret Agency ([Website](https://www.galacticsecretagency.com/)) ([Opensea](https://opensea.io/collection/galactic-secret-agency))
 * Ghoulies NFT [[Contract](https://etherscan.io/address/0x2570f12074ac007aec09426c5d092dd2a1fa3e5f#code)] ([Website](https://ghouliesnft.com/)) ([Opensea](https://opensea.io/collection/ghouliesnft))
@@ -43,7 +45,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Lysergic Labs Shroomz ([Opensea](https://opensea.io/collection/lysergiclabsshroomz))
 * Mr. Bojangles - Sleepy Sloth ([Opensea](https://opensea.io/collection/sleepy-mrbojangles))
 * NiftyRiots ([Opensea](https://opensea.io/collection/niftyriots))
-* OnChainCat ([Website](https://onchaincat.com/)) ([Opensea](https://opensea.io/collection/onchaincat))
+* ⚠️ OnChainCat ([Website](https://onchaincat.com/)) ([Opensea](https://opensea.io/collection/onchaincat))
 * Panda Dynasty ([Website](https://pandadynasty.io/)) ([Opensea](https://opensea.io/collection/pandadynasty))
 * Party Degenerates [[Contract](https://etherscan.io/address/0x4be3223f8708ca6b30d1e8b8926cf281ec83e770#code)] ([Website](https://partydegenerates.com/)) ([Opensea](https://opensea.io/PartyDegenerates))
 * Pixel Pussies ([Website](https://pixelpussy.io/))
@@ -122,7 +124,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 ## Metaverse Land NFTs
 
-* Ethereum Towers [⚠️ [OPENSTORE Contract](https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e)] ([Opensea](https://opensea.io/collection/ethereum-towers))
+* ⚠️ Ethereum Towers [[OPENSTORE Contract](https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e)] ([Opensea](https://opensea.io/collection/ethereum-towers))
 * NFT Worlds [[Contract](https://etherscan.io/address/0xbd4455da5929d5639ee098abfaa3241e9ae111af#code)] ([Website](https://www.nftworlds.com/)) ([Opensea](https://opensea.io/collection/nft-worlds))
 * The Sandbox ([Opensea](https://opensea.io/collection/sandbox))
 
@@ -130,7 +132,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 * **World of Women ([Website](https://worldofwomen.art/)) ([Opensea](https://opensea.io/collection/world-of-women-nft))**
 * Boss Beauties ([Website](https://www.bossbeauties.club/)) ([Opensea](https://opensea.io/collection/bossbeauties))
-* Cool Lady Club [⚠️ [OPENSTORE Contract](https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e#code)] ([Website](http://coolladyclub.com/)) ([Opensea](https://opensea.io/collection/cool-lady-club))
+* ⚠️ Cool Lady Club [[OPENSTORE Contract](https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e#code)] ([Website](http://coolladyclub.com/)) ([Opensea](https://opensea.io/collection/cool-lady-club))
 * Crypto Chicks ([Website](https://www.cryptochicks.app/)) ([Opensea](https://opensea.io/collection/the-crypto-chicks))
 * FameLadySquad ([Website](https://www.fameladysquad.com/)) ([Opensea](https://opensea.io/collection/fameladysquad))
 * Femmeverse [[Contract](https://etherscan.io/address/0xa1caae7da6df6831d48e40a383528ac897664bf2#code)] ([Website](https://femmeverse.space/)) ([Opensea](https://opensea.io/collection/femmeverse))
