@@ -6,7 +6,7 @@ A curated list of generative Non Fungible Tokens (NFT, ERC721) organized by thei
 
 **Warning symbol** (⚠️) is used to indicate listings that are contain some of the known issues. Not having a warning symbol does not mean such listings are free from any known issues. Regardless, special attention should be paid to these listings.
 
-Disclaimer: we want to keep this listing below as inclusive as possible. This means that the criteria for entering the list is intentionally very loose. Functional websites are NOT required. Marketplace verifications are NOT required. Smart contract audits are NOT required. The listings are NOT endorsements. They can also contain errors or mistakes. DO YOUR OWN RESEARCH.
+Disclaimer: we want to keep this listing below as inclusive as possible. This means that the criteria for entering the list is intentionally very loose. Functional websites are NOT required. Marketplace verifications are NOT required. Smart contract audits are NOT required. The listings can also contain errors and are NOT endorsements. DO YOUR OWN RESEARCH.
 
 ## Adjective-creature-fam NFTs
 
