@@ -130,6 +130,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 * **World of Women ([Website](https://worldofwomen.art/)) ([Opensea](https://opensea.io/collection/world-of-women-nft))**
 * Boss Beauties ([Website](https://www.bossbeauties.club/)) ([Opensea](https://opensea.io/collection/bossbeauties))
+* Cool Lady Club [[Contract](https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e#code)] ([Website](http://coolladyclub.com/)) ([Opensea](https://opensea.io/collection/cool-lady-club))
 * Crypto Chicks ([Website](https://www.cryptochicks.app/)) ([Opensea](https://opensea.io/collection/the-crypto-chicks))
 * FameLadySquad ([Website](https://www.fameladysquad.com/)) ([Opensea](https://opensea.io/collection/fameladysquad))
 * Femmeverse [[Contract](https://etherscan.io/address/0xa1caae7da6df6831d48e40a383528ac897664bf2#code)] ([Website](https://femmeverse.space/)) ([Opensea](https://opensea.io/collection/femmeverse))
