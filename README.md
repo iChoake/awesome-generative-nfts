@@ -130,11 +130,11 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 ## Female NFTs
 
-* **World of Women ([Website](https://worldofwomen.art/)) ([Opensea](https://opensea.io/collection/world-of-women-nft))**
-* Boss Beauties ([Website](https://www.bossbeauties.club/)) ([Opensea](https://opensea.io/collection/bossbeauties))
+* **World of Women [[Contract](https://etherscan.io/address/0xe785e82358879f061bc3dcac6f0444462d4b5330#code)] ([Website](https://worldofwomen.art/)) ([Opensea](https://opensea.io/collection/world-of-women-nft))**
+* Boss Beauties [[Contract](https://etherscan.io/address/0xb5c747561a185a146f83cfff25bdfd2455b31ff4#code)] ([Website](https://www.bossbeauties.club/)) ([Opensea](https://opensea.io/collection/bossbeauties))
 * Cool Lady Club [[Contract](https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e#code)] ([Website](http://coolladyclub.com/)) ([Opensea](https://opensea.io/collection/cool-lady-club)) (⚠️ Closed-source contract)
-* Crypto Chicks ([Website](https://www.cryptochicks.app/)) ([Opensea](https://opensea.io/collection/the-crypto-chicks))
-* FameLadySquad ([Website](https://www.fameladysquad.com/)) ([Opensea](https://opensea.io/collection/fameladysquad))
+* Crypto Chicks [[Contract](https://etherscan.io/address/0x1981cc36b59cffdd24b01cc5d698daa75e367e04#code)] ([Website](https://www.cryptochicks.app/)) ([Opensea](https://opensea.io/collection/the-crypto-chicks))
+* FameLadySquad [[Contract](https://etherscan.io/address/0xf3e6dbbe461c6fa492cea7cb1f5c5ea660eb1b47#code)] ([Website](https://www.fameladysquad.com/)) ([Opensea](https://opensea.io/collection/fameladysquad))
 * Femmeverse [[Contract](https://etherscan.io/address/0xa1caae7da6df6831d48e40a383528ac897664bf2#code)] ([Website](https://femmeverse.space/)) ([Opensea](https://opensea.io/collection/femmeverse))
 * Les Non Fongible Femmes [[Contract](https://etherscan.io/address/0xc1b2118a3995778a55282759a58207c2f5dcc186#code)] ([Opensea](https://opensea.io/collection/les-non-fongible-femmes))
 * Outlaw Gals MC [[Contract](https://etherscan.io/address/0x62efd38a5efd7cfdb1c6e1c50f3083af636d1b40#code)] ([Website](https://ogmc.io/)) ([Opensea](https://opensea.io/collection/ogmc))
