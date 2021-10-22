@@ -32,7 +32,6 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * CrypToadz [[Contract](https://etherscan.io/address/0x1cb1a5e65610aeff2551a50f76a87a7d3fb649c6#code)] ([Opensea](https://opensea.io/collection/cryptoadz-by-gremplin))
 * CryptoFoxes ([Website](https://www.cryptofoxes.io/)) ([Opensea](https://opensea.io/collection/cryptofoxes-v2))
 * Cupcats [[Contract](https://etherscan.io/address/0x8cd8155e1af6ad31dd9eec2ced37e04145acfcb3#code)] ([Website](https://www.cupcatnft.com/)) ([Opensea](https://opensea.io/collection/cupcatsofficial))
-* DeRace Jockey Club ([Opensea](https://opensea.io/collection/derace-jockey-club))
 * DRRT [[Contract](https://etherscan.io/address/0xf506f1ab233c72a424f1b83e055cbfb0ca0dbca1#code)] ([Opensea](https://opensea.io/collection/drrt))
 * Dogepunks ([Website](https://dogepunks.com/)) ([Opensea](https://opensea.io/collection/dogepunks))
 * Doodles ([Website](https://doodles.app/)) ([Opensea](https://opensea.io/collection/doodles-official))
@@ -161,8 +160,9 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Sharkies NFT ([Website](https://www.sharkies.io/))
 * Woke Workaholics ([Website](https://wokeworkaholics.io/))
 
-### Excluded (non-generative, closed source)
+### Excluded (non-generative, non-eth, closed source)
 
 * ElementBlocks ([Website](https://elementblocks.org/)) ([Opensea](https://opensea.io/collection/elementblocks/))
-* Ghxsts ([Opensea](https://opensea.io/collection/ghxsts))
+* Ghxsts ([Opensea](https://opensea.io/collection/ghxsts)) -- Non-generative
 * OnChain Panda ([Opensea](https://opensea.io/collection/onchain-panda))
+* DeRace Jockey Club ([Opensea](https://opensea.io/collection/derace-jockey-club)) -- Polygon Network
