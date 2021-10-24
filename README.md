@@ -141,7 +141,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Les Non Fongible Femmes [[Contract](https://etherscan.io/address/0xc1b2118a3995778a55282759a58207c2f5dcc186#code)] ([Opensea](https://opensea.io/collection/les-non-fongible-femmes))
 * Outlaw Gals MC [[Contract](https://etherscan.io/address/0x62efd38a5efd7cfdb1c6e1c50f3083af636d1b40#code)] ([Website](https://ogmc.io/)) ([Opensea](https://opensea.io/collection/ogmc))
 * Sad Girls Bar [[Contract](https://etherscan.io/address/0x335eeef8e93a7a757d9e7912044d9cd264e2b2d8#code)] ([Website](https://sadgirlsbar.io/)) ([Opensea](https://opensea.io/collection/sadgirlsbar))
-* Women and Weapons [[Contract](https://etherscan.io/address/0x338866f8ba75bb9d7a00502e11b099a2636c2c18#code)] ([Website](https://www.womenandweapons.io/)) ([Opensea](https://opensea.io/collection/womenandweapons))
+* Women and Weapons [[Contract](https://etherscan.io/address/0x338866f8ba75bb9d7a00502e11b099a2636c2c18#code)] ([Website](https://www.womenandweapons.io/)) ([Opensea](https://opensea.io/collection/womenandweapons)) (Unrevealed collection)
 
 ---
 
