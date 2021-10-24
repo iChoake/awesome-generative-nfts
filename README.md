@@ -85,6 +85,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 ## On-Chain NFTs
 
+* Anonymice ([Opensea](https://opensea.io/collection/anonymice))
 * cMyKatz ([Opensea](https://opensea.io/collection/cmykatz-nfts))
 * OnChainMonkey ([Website](https://onchainmonkey.com/)) ([Opensea](https://opensea.io/collection/onchainmonkey))
 
