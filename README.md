@@ -65,7 +65,11 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Wanna Panda ([Website](https://wannapanda.com/)) ([Opensea](https://opensea.io/collection/wannapandaofficial))
 * Winter Bears ([Website](https://www.winterbearsnft.com/)) ([Opensea](https://opensea.io/collection/winterbears))
 
-## Computer Generated Art NFTs
+## AI Art NFTs
+
+* Eponym by ART AI ([Opensea](https://opensea.io/collection/eponym))
+
+## Computer Generated Graphics NFTs
 
 * Toroids by Lip [[Contract](https://etherscan.io/address/0xc9340a0ab1bae7b6098a1daa664df10dbfc57bcb#code)] ([Website](https://toroidsart.com/)) ([Opensea](https://opensea.io/collection/toroids-by-lip))
 
