@@ -67,7 +67,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 ## Computer Generated Art NFTs
 
-* Toroids by Lip ([Opensea](https://opensea.io/collection/toroids-by-lip)]
+* Toroids by Lip [[Contract](https://etherscan.io/address/0xc9340a0ab1bae7b6098a1daa664df10dbfc57bcb#code)] ([Website](https://toroidsart.com/)) ([Opensea](https://opensea.io/collection/toroids-by-lip))
 
 ## Hand-drawn / hand-painted NFTs
 
