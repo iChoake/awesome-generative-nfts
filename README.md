@@ -89,6 +89,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 ## Profile Banner (PFB) NFTs
 
 * AI Pixel Buddies [[Contract](https://etherscan.io/address/0x0c5a8b69b4f76d1cd7d7c676b9bc234d0196ecff#code)] ([Website](http://aipixelbuddies.com/)) ([Opensea](https://opensea.io/collection/ai-pixel-buddies))
+* Boring Headers Society ([Opensea](https://opensea.io/collection/boringheadersociety)) (⚠️ Uses OPENSTORE contract)
 * Lazy Lions Bungalows [[Contract](https://etherscan.io/address/0xd80eef7484c8fab1912a43e44a97774093007ab1#code)] ([Opensea](https://opensea.io/collection/lazy-lions-bungalows))
 * Metti Landscape [[Contract](https://etherscan.io/address/0x6067e1963fe613609ee61e93588e4736cbfc7800#code)] ([Opensea](https://opensea.io/collection/metti-landscape))
 * PunkScapes [[Contract](https://etherscan.io/address/0x51ae5e2533854495f6c587865af64119db8f59b4#code)] ([Website](https://punkscape.xyz/)) ([Opensea](https://opensea.io/collection/punkscapes))
@@ -133,7 +134,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 ## Metaverse Land NFTs
 
-* Ethereum Towers [[Contract](https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e)] ([Opensea](https://opensea.io/collection/ethereum-towers))  (⚠️ Closed-source contract)
+* Ethereum Towers [[Contract](https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e)] ([Opensea](https://opensea.io/collection/ethereum-towers))  (⚠️ Uses OPENSTORE contract)
 * NFT Worlds [[Contract](https://etherscan.io/address/0xbd4455da5929d5639ee098abfaa3241e9ae111af#code)] ([Website](https://www.nftworlds.com/)) ([Opensea](https://opensea.io/collection/nft-worlds))
 * The Sandbox ([Opensea](https://opensea.io/collection/sandbox))
 
@@ -141,7 +142,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 * **World of Women [[Contract](https://etherscan.io/address/0xe785e82358879f061bc3dcac6f0444462d4b5330#code)] ([Website](https://worldofwomen.art/)) ([Opensea](https://opensea.io/collection/world-of-women-nft))**
 * Boss Beauties [[Contract](https://etherscan.io/address/0xb5c747561a185a146f83cfff25bdfd2455b31ff4#code)] ([Website](https://www.bossbeauties.club/)) ([Opensea](https://opensea.io/collection/bossbeauties))
-* Cool Lady Club [[Contract](https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e#code)] ([Website](http://coolladyclub.com/)) ([Opensea](https://opensea.io/collection/cool-lady-club)) (⚠️ Closed-source contract)
+* Cool Lady Club [[Contract](https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e#code)] ([Website](http://coolladyclub.com/)) ([Opensea](https://opensea.io/collection/cool-lady-club)) (⚠️ Uses OPENSTORE contract)
 * Crypto Chicks [[Contract](https://etherscan.io/address/0x1981cc36b59cffdd24b01cc5d698daa75e367e04#code)] ([Website](https://www.cryptochicks.app/)) ([Opensea](https://opensea.io/collection/the-crypto-chicks))
 * FameLadySquad [[Contract](https://etherscan.io/address/0xf3e6dbbe461c6fa492cea7cb1f5c5ea660eb1b47#code)] ([Website](https://www.fameladysquad.com/)) ([Opensea](https://opensea.io/collection/fameladysquad))
 * Femmeverse [[Contract](https://etherscan.io/address/0xa1caae7da6df6831d48e40a383528ac897664bf2#code)] ([Website](https://femmeverse.space/)) ([Opensea](https://opensea.io/collection/femmeverse))
