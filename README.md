@@ -65,6 +65,10 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Wanna Panda ([Website](https://wannapanda.com/)) ([Opensea](https://opensea.io/collection/wannapandaofficial))
 * Winter Bears ([Website](https://www.winterbearsnft.com/)) ([Opensea](https://opensea.io/collection/winterbears))
 
+## Computer Generated Art NFTs
+
+* Toroids by Lip ([Opensea](https://opensea.io/collection/toroids-by-lip)]
+
 ## Hand-drawn / hand-painted NFTs
 
 * **Crypto Hobos [[Contract](https://etherscan.io/address/0xd153f0014db6d1f339c6340d2c9f59214355d9d7#code)] ([Website](https://cryptohobos.io/)) ([Opensea](https://opensea.io/collection/crypto-hobos))**
