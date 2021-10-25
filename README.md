@@ -19,7 +19,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Bad Bunnies ([Website](https://badbunniesnft.com/)) ([Opensea](https://opensea.io/collection/bad-bunnies-nft))
 * Barn Owlz ([Website](https://www.barnowlz.io/)) ([Opensea](https://opensea.io/collection/barn-owlz))
 * Bohemian Bulldogs [[Contract](https://etherscan.io/address/0xcf5997c7a314ae624c6f2f4a6ddc373efd23b276)] ([Website](https://bohemian-bulldogs.com/)) ([Opensea](https://opensea.io/collection/bb-bohemian-bulldogs))
-* Boar Mafia ([Opensea](Boar Mafia))
+* Boar Mafia ([Opensea](https://opensea.io/collection/boar-mafia-rival))
 * Blazed Cats ([Website](https://blazedcats.com/)) ([Opensea](https://opensea.io/collection/blazedcats))
 * Burglar Cats ([Website](https://burglarcats.com/)) ([Opensea](https://opensea.io/collection/burglarcatsnft))
 * Claylings ([Opensea](https://opensea.io/collection/theclaylings))
