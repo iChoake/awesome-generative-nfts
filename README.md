@@ -100,6 +100,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * 9021Collective [[Contract](https://etherscan.io/address/0x248de15e3a0da895f4f82cd24bff89964e4aa381#code)] ([Website](https://www.9021.io/)) ([Opensea](https://opensea.io/collection/9021collective))
 * AI Pixel Buddies [[Contract](https://etherscan.io/address/0x0c5a8b69b4f76d1cd7d7c676b9bc234d0196ecff#code)] ([Website](http://aipixelbuddies.com/)) ([Opensea](https://opensea.io/collection/ai-pixel-buddies))
 * Boring Headers Society ([Opensea](https://opensea.io/collection/boringheadersociety)) (⚠️ Uses OPENSTORE contract)
+* Headscapes [[Contract](https://etherscan.io/address/0x71A41083c0Ba125c00901AC874017671bBf9e621#code)] ([Website](https://www.headscapes.art/)) ([Opensea](https://www.headscapes.art/))
 * Lazy Lions Bungalows [[Contract](https://etherscan.io/address/0xd80eef7484c8fab1912a43e44a97774093007ab1#code)] ([Opensea](https://opensea.io/collection/lazy-lions-bungalows))
 * MaestroBanners [[Contract](https://etherscan.io/address/0x410ca5ef89205672538a8ca6b76bd0b3b2218c39#code)] ([Opensea](https://opensea.io/collection/maestrobanners))
 * Metti Landscape [[Contract](https://etherscan.io/address/0x6067e1963fe613609ee61e93588e4736cbfc7800#code)] ([Opensea](https://opensea.io/collection/metti-landscape))
