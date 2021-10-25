@@ -61,7 +61,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Space Dinos Club ([Opensea](https://opensea.io/collection/space-dinos-club))
 * Stoner Cats ([Website](https://www.stonercats.com/)) ([Opensea](https://opensea.io/collection/stoner-cats-official))
 * The Alien Boy ([Website](https://www.thealienboy.com/)) ([Opensea](https://opensea.io/collection/thealienboy))
-* TheCreepz [[Contract](https://etherscan.io/address/0xf18E9C8378C84999D07F4b0089bA1AD80e408600#code)] ([Website](https://creepz.org/)) (⚠️ Closed source contract)
+* TheCreepz [[Contract](https://etherscan.io/address/0xf18E9C8378C84999D07F4b0089bA1AD80e408600#code)] ([Website](https://creepz.org/))
 * The Doge Pound [[Contract](https://etherscan.io/address/0xf4ee95274741437636e748ddac70818b4ed7d043#code)] ([Website](https://thedogepoundnft.com/)) ([Opensea](https://opensea.io/collection/the-doge-pound))
 * The Wicked Craniums [[Contract](https://etherscan.io/address/0x85f740958906b317de6ed79663012859067e745b#code)] ([Website](https://wickedcranium.com/)) ([Opensea](https://opensea.io/collection/thewickedcraniums))
 * Wanna Panda ([Website](https://wannapanda.com/)) ([Opensea](https://opensea.io/collection/wannapandaofficial))
