@@ -42,6 +42,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Great Ape Society ([Opensea](https://opensea.io/collection/great-ape-society)]
 * Kaiju Kingz [[Contract](https://etherscan.io/address/0x0c2e57efddba8c768147d1fdf9176a0a6ebd5d83#code)] ([Opensea](https://opensea.io/collection/kaiju-kingz))
 * Janky Heist ([Website](https://jankyheist.com/)) ([Opensea](https://opensea.io/collection/jankyheist))
+* Jungle Freaks [[Contract](https://etherscan.io/address/0x7e6bc952d4b4bd814853301bee48e99891424de0#code)] ([Opensea](https://opensea.io/collection/jungle-freaks-by-trosley))
 * Lonely Frog Lambo Club ([Website](https://www.lonelyfroglamboclub.com/)) ([Opensea](https://opensea.io/collection/thelonelyfroglamboclub))
 * Lysergic Labs Shroomz ([Opensea](https://opensea.io/collection/lysergiclabsshroomz))
 * MekaVerse ([Opensea](https://opensea.io/collection/mekaverse))
@@ -52,6 +53,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Party Degenerates [[Contract](https://etherscan.io/address/0x4be3223f8708ca6b30d1e8b8926cf281ec83e770#code)] ([Website](https://partydegenerates.com/)) ([Opensea](https://opensea.io/PartyDegenerates))
 * Pixel Pussies ([Website](https://pixelpussy.io/))
 * Pixel.Unicorns ([Opensea](https://opensea.io/collection/pixel-unicorns-))
+* Primate Social Society [[Contract](https://etherscan.io/address/0x76e51bc8fa0beebcf3e45de408fa43c9dc5ffb27#code)] ([Website](https://www.primatesocialsociety.com/)) ([Opensea](https://opensea.io/collection/primate-social-society-official))
 * Raccoon Mafia ([Opensea](https://opensea.io/collection/raccoon-mafia))
 * Rocket Riders NFT ([Website](https://www.rocketridersnft.com/)) ([Opensea](https://opensea.io/collection/rocketridersnft))
 * Rumble Kong League ([Opensea](https://opensea.io/collection/rumble-kong-league))
@@ -59,6 +61,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Secret Society of Whales [[Contract](https://etherscan.io/address/0x88091012eedF8Dba59D08e27Ed7B22008F5d6fe5#code)] ([Website](https://www.secretsocietyofwhales.com/))
 * SpacePunksClub [[Contract](https://etherscan.io/address/0x45db714f24f5a313569c41683047f1d49e78ba07#code)] ([Website](https://www.spacepunks.club/)) ([Opensea](https://opensea.io/collection/space-punks-club))
 * Space Dinos Club ([Opensea](https://opensea.io/collection/space-dinos-club))
+* Surreals [[Contract](https://etherscan.io/address/0xa406489360a47af2c74fc1004316a64e469646a5#code)] ([Website](https://surreals.io/)) ([Opensea](https://opensea.io/collection/official-surreals))
 * Stoner Cats ([Website](https://www.stonercats.com/)) ([Opensea](https://opensea.io/collection/stoner-cats-official))
 * The Alien Boy ([Website](https://www.thealienboy.com/)) ([Opensea](https://opensea.io/collection/thealienboy))
 * TheCreepz [[Contract](https://etherscan.io/address/0xf18E9C8378C84999D07F4b0089bA1AD80e408600#code)] ([Website](https://creepz.org/))
@@ -75,15 +78,12 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 * Toroids by Lip [[Contract](https://etherscan.io/address/0xc9340a0ab1bae7b6098a1daa664df10dbfc57bcb#code)] ([Website](https://toroidsart.com/)) ([Opensea](https://opensea.io/collection/toroids-by-lip))
 
-## Hand-drawn / hand-painted NFTs
+## Hand-painted NFTs
 
 * **Crypto Hobos [[Contract](https://etherscan.io/address/0xd153f0014db6d1f339c6340d2c9f59214355d9d7#code)] ([Website](https://cryptohobos.io/)) ([Opensea](https://opensea.io/collection/crypto-hobos))**
-* Jungle Freaks [[Contract](https://etherscan.io/address/0x7e6bc952d4b4bd814853301bee48e99891424de0#code)] ([Opensea](https://opensea.io/collection/jungle-freaks-by-trosley))
 * Pettametti [[Contract](https://etherscan.io/address/0x52474fbf6b678a280d0c69f2314d6d95548b3daf#code)] ([Opensea](https://opensea.io/collection/pettametti))
-* Primate Social Society [[Contract](https://etherscan.io/address/0x76e51bc8fa0beebcf3e45de408fa43c9dc5ffb27#code)] ([Website](https://www.primatesocialsociety.com/)) ([Opensea](https://opensea.io/collection/primate-social-society-official))
 * Pumpametti [[Contract](https://etherscan.io/address/0x09646c5c1e42ede848a57d6542382c32f2877164#code)] ([Opensea](https://opensea.io/collection/pumpametti))
 * Standametti [[Contract](https://etherscan.io/address/0xfc6bc5d50912354e89bad4dabf053bca2d7cd817#code)] ([Opensea](https://opensea.io/collection/standametti))
-* Surreals [[Contract](https://etherscan.io/address/0xa406489360a47af2c74fc1004316a64e469646a5#code)] ([Website](https://surreals.io/)) ([Opensea](https://opensea.io/collection/official-surreals))
 
 ## On-Chain NFTs
 
