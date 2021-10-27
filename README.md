@@ -64,7 +64,6 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Surreals [[Contract](https://etherscan.io/address/0xa406489360a47af2c74fc1004316a64e469646a5#code)] ([Website](https://surreals.io/)) ([Opensea](https://opensea.io/collection/official-surreals))
 * Stoner Cats ([Website](https://www.stonercats.com/)) ([Opensea](https://opensea.io/collection/stoner-cats-official))
 * The Alien Boy ([Website](https://www.thealienboy.com/)) ([Opensea](https://opensea.io/collection/thealienboy))
-* TheCreepz [[Contract](https://etherscan.io/address/0xf18E9C8378C84999D07F4b0089bA1AD80e408600#code)] ([Website](https://creepz.org/))
 * The Doge Pound [[Contract](https://etherscan.io/address/0xf4ee95274741437636e748ddac70818b4ed7d043#code)] ([Website](https://thedogepoundnft.com/)) ([Opensea](https://opensea.io/collection/the-doge-pound))
 * The Wicked Craniums [[Contract](https://etherscan.io/address/0x85f740958906b317de6ed79663012859067e745b#code)] ([Website](https://wickedcranium.com/)) ([Opensea](https://opensea.io/collection/thewickedcraniums))
 * Wanna Panda ([Website](https://wannapanda.com/)) ([Opensea](https://opensea.io/collection/wannapandaofficial))
@@ -90,6 +89,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Anonymice ([Opensea](https://opensea.io/collection/anonymice))
 * cMyKatz ([Opensea](https://opensea.io/collection/cmykatz-nfts))
 * OnChainMonkey ([Website](https://onchainmonkey.com/)) ([Opensea](https://opensea.io/collection/onchainmonkey))
+* TheCreepz [[Contract](https://etherscan.io/address/0xf18E9C8378C84999D07F4b0089bA1AD80e408600#code)] ([Website](https://creepz.org/))
 
 ## Play to Earn NFTs
 
