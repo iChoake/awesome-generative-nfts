@@ -168,6 +168,10 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 ---
 
+## Other lists for NFTs
+
+* ([[On-Chain Art, compiled list](https://www.notion.so/On-Chain-Art-6c4d9f09396b4967a252290c28a5f47f)]([https://emrecolako.notion.site/emrecolako/On-Chain-Art-6c4d9f09396b4967a252290c28a5f47f])
+
 ## Backlog
 
 **We are looking into include these collections or have excluded them as not generative. Anothing below this fold should be considered to be not in the main list.**
