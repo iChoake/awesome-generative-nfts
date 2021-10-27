@@ -10,7 +10,6 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 ## Adjective-creature-fam NFTs
 
-* **Bored Ape Yacht Club ([Website](https://boredapeyachtclub.com/)) ([Opensea](https://opensea.io/collection/boredapeyachtclub))**
 * 0N1 FORCE [[Contract](https://etherscan.io/address/0x3bf2922f4520a8ba0c2efc3d2a1539678dad5e9d#code)] ([Website](https://www.0n1force.com/)) ([Opensea](https://opensea.io/collection/0n1-force))
 * Altdoges ([Website](https://www.altdoges.com/)) ([Opensea](https://opensea.io/collection/altdoges))
 * Angry Boars [[Contract](https://etherscan.io/address/0xa66cc78067fd1e6aa3eec4ccdff88d81527f92c1#code)] ([Website](https://www.angryboars.com/)) ([Opensea](https://opensea.io/collection/angryboarsnft))
@@ -20,6 +19,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Barn Owlz ([Website](https://www.barnowlz.io/)) ([Opensea](https://opensea.io/collection/barn-owlz))
 * Bohemian Bulldogs [[Contract](https://etherscan.io/address/0xcf5997c7a314ae624c6f2f4a6ddc373efd23b276)] ([Website](https://bohemian-bulldogs.com/)) ([Opensea](https://opensea.io/collection/bb-bohemian-bulldogs))
 * Boar Mafia ([Opensea](https://opensea.io/collection/boar-mafia-rival))
+* Bored Ape Yacht Club ([Website](https://boredapeyachtclub.com/)) ([Opensea](https://opensea.io/collection/boredapeyachtclub))
 * Blazed Cats ([Website](https://blazedcats.com/)) ([Opensea](https://opensea.io/collection/blazedcats))
 * Burglar Cats ([Website](https://burglarcats.com/)) ([Opensea](https://opensea.io/collection/burglarcatsnft))
 * Claylings ([Opensea](https://opensea.io/collection/theclaylings))
@@ -80,7 +80,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 ## Hand-painted NFTs
 
-* **Crypto Hobos [[Contract](https://etherscan.io/address/0xd153f0014db6d1f339c6340d2c9f59214355d9d7#code)] ([Website](https://cryptohobos.io/)) ([Opensea](https://opensea.io/collection/crypto-hobos))**
+* Crypto Hobos [[Contract](https://etherscan.io/address/0xd153f0014db6d1f339c6340d2c9f59214355d9d7#code)] ([Website](https://cryptohobos.io/)) ([Opensea](https://opensea.io/collection/crypto-hobos))
 * Pettametti [[Contract](https://etherscan.io/address/0x52474fbf6b678a280d0c69f2314d6d95548b3daf#code)] ([Opensea](https://opensea.io/collection/pettametti))
 * Pumpametti [[Contract](https://etherscan.io/address/0x09646c5c1e42ede848a57d6542382c32f2877164#code)] ([Opensea](https://opensea.io/collection/pumpametti))
 * Standametti [[Contract](https://etherscan.io/address/0xfc6bc5d50912354e89bad4dabf053bca2d7cd817#code)] ([Opensea](https://opensea.io/collection/standametti))
@@ -132,19 +132,19 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 ## Mutable NFTs
 
-* **MoonCats ([Website](https://mooncat.community/))** ([Opensea (unofficial wrapper)](https://opensea.io/collection/wrapped-mooncatsrescue)) ([Opensea (official wrapper)](https://opensea.io/collection/acclimatedmooncats))
 * Dogs Unchained ([Website](https://www.dogsunchainednft.com/)) ([Opensea](https://opensea.io/collection/dogs-unchained))
 * Monster Blocks [[Contract](https://etherscan.io/address/0xa56a4f2b9807311ac401c6afba695d3b0c31079d#code)] ([Website](https://www.monsterblocks.io/)) ([Opensea](https://opensea.io/collection/monster-blocks))
+* MoonCats ([Website](https://mooncat.community/)) ([Opensea (unofficial wrapper)](https://opensea.io/collection/wrapped-mooncatsrescue)) ([Opensea (official wrapper)](https://opensea.io/collection/acclimatedmooncats))
 * Museum - The White Room ([Website](https://www.museum-refined.art/)) ([Opensea](https://opensea.io/collection/museum-the-white-room))
 * NFT Worlds [[Contract](https://etherscan.io/address/0xbd4455da5929d5639ee098abfaa3241e9ae111af#code)] ([Website](https://www.nftworlds.com/)) ([Opensea](https://opensea.io/collection/nft-worlds))
 * Template [[Contract](https://etherscan.io/address/0x3a0335409a0becd0da1ff6e442b9b6874d4e87a1#code)] ([Website](https://www.template.wtf/)) ([Opensea](https://opensea.io/collection/template))
 
 ## Punk NFTs
 
-* **Crypto Punks ([Website](https://www.larvalabs.com/cryptopunks)) ([Opensea](https://opensea.io/collection/cryptopunks))**
 * 3DPunks ([Website](https://3d-punks.com/)) ([Opensea](https://opensea.io/collection/3dpunks))
 * Business Punks Official ([Opensea](https://opensea.io/collection/business-punks-official))
 * COVIDPunks! ([Website](https://www.covidpunks.com/)) ([Opensea](https://opensea.io/collection/covidpunksnft))
+* Crypto Punks ([Website](https://www.larvalabs.com/cryptopunks)) ([Opensea](https://opensea.io/collection/cryptopunks))
 
 ## Metaverse Land NFTs
 
@@ -154,7 +154,6 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 ## Female NFTs
 
-* **World of Women [[Contract](https://etherscan.io/address/0xe785e82358879f061bc3dcac6f0444462d4b5330#code)] ([Website](https://worldofwomen.art/)) ([Opensea](https://opensea.io/collection/world-of-women-nft))**
 * Boss Beauties [[Contract](https://etherscan.io/address/0xb5c747561a185a146f83cfff25bdfd2455b31ff4#code)] ([Website](https://www.bossbeauties.club/)) ([Opensea](https://opensea.io/collection/bossbeauties))
 * Cool Lady Club [[Contract](https://etherscan.io/address/0x495f947276749ce646f68ac8c248420045cb7b5e#code)] ([Website](http://coolladyclub.com/)) ([Opensea](https://opensea.io/collection/cool-lady-club)) (⚠️ Uses OPENSTORE contract)
 * Crypto Chicks [[Contract](https://etherscan.io/address/0x1981cc36b59cffdd24b01cc5d698daa75e367e04#code)] ([Website](https://www.cryptochicks.app/)) ([Opensea](https://opensea.io/collection/the-crypto-chicks))
@@ -165,6 +164,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Sad Girls Bar [[Contract](https://etherscan.io/address/0x335eeef8e93a7a757d9e7912044d9cd264e2b2d8#code)] ([Website](https://sadgirlsbar.io/)) ([Opensea](https://opensea.io/collection/sadgirlsbar))
 * Women Rise ([Website](https://www.womenrise.art/)) (⚠️ Unreleased collection)
 * Women and Weapons [[Contract](https://etherscan.io/address/0x338866f8ba75bb9d7a00502e11b099a2636c2c18#code)] ([Website](https://www.womenandweapons.io/)) ([Opensea](https://opensea.io/collection/womenandweapons)) (⚠️ Unrevealed collection)
+* World of Women [[Contract](https://etherscan.io/address/0xe785e82358879f061bc3dcac6f0444462d4b5330#code)] ([Website](https://worldofwomen.art/)) ([Opensea](https://opensea.io/collection/world-of-women-nft))
 
 ---
 
