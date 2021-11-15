@@ -42,7 +42,6 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Great Ape Society ([Opensea](https://opensea.io/collection/great-ape-society)]
 * Kaiju Kingz [[Contract](https://etherscan.io/address/0x0c2e57efddba8c768147d1fdf9176a0a6ebd5d83#code)] ([Opensea](https://opensea.io/collection/kaiju-kingz))
 * Janky Heist ([Website](https://jankyheist.com/)) ([Opensea](https://opensea.io/collection/jankyheist))
-* Jungle Freaks [[Contract](https://etherscan.io/address/0x7e6bc952d4b4bd814853301bee48e99891424de0#code)] ([Opensea](https://opensea.io/collection/jungle-freaks-by-trosley))
 * Lonely Frog Lambo Club ([Website](https://www.lonelyfroglamboclub.com/)) ([Opensea](https://opensea.io/collection/thelonelyfroglamboclub))
 * Lysergic Labs Shroomz ([Opensea](https://opensea.io/collection/lysergiclabsshroomz))
 * MekaVerse ([Opensea](https://opensea.io/collection/mekaverse))
@@ -79,6 +78,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 ## Hand-drawn / hand-painted NFTs (including digitally painted)
 
 * Crypto Hobos [[Contract](https://etherscan.io/address/0xd153f0014db6d1f339c6340d2c9f59214355d9d7#code)] ([Website](https://cryptohobos.io/)) ([Opensea](https://opensea.io/collection/crypto-hobos))
+* Jungle Freaks [[Contract](https://etherscan.io/address/0x7e6bc952d4b4bd814853301bee48e99891424de0#code)] ([Opensea](https://opensea.io/collection/jungle-freaks-by-trosley))
 * Pettametti [[Contract](https://etherscan.io/address/0x52474fbf6b678a280d0c69f2314d6d95548b3daf#code)] ([Opensea](https://opensea.io/collection/pettametti))
 * Pumpametti [[Contract](https://etherscan.io/address/0x09646c5c1e42ede848a57d6542382c32f2877164#code)] ([Opensea](https://opensea.io/collection/pumpametti))
 * Standametti [[Contract](https://etherscan.io/address/0xfc6bc5d50912354e89bad4dabf053bca2d7cd817#code)] ([Opensea](https://opensea.io/collection/standametti))
