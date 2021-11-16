@@ -60,6 +60,7 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Secret Society of Whales [[Contract](https://etherscan.io/address/0x88091012eedF8Dba59D08e27Ed7B22008F5d6fe5#code)] ([Website](https://www.secretsocietyofwhales.com/))
 * SpacePunksClub [[Contract](https://etherscan.io/address/0x45db714f24f5a313569c41683047f1d49e78ba07#code)] ([Website](https://www.spacepunks.club/)) ([Opensea](https://opensea.io/collection/space-punks-club))
 * Space Dinos Club ([Opensea](https://opensea.io/collection/space-dinos-club))
+* SupDucks ([Opensea](https://opensea.io/collection/supducks))
 * Stoner Cats ([Website](https://www.stonercats.com/)) ([Opensea](https://opensea.io/collection/stoner-cats-official))
 * The Alien Boy ([Website](https://www.thealienboy.com/)) ([Opensea](https://opensea.io/collection/thealienboy))
 * The Doge Pound [[Contract](https://etherscan.io/address/0xf4ee95274741437636e748ddac70818b4ed7d043#code)] ([Website](https://thedogepoundnft.com/)) ([Opensea](https://opensea.io/collection/the-doge-pound))
@@ -79,7 +80,6 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 
 * Crypto Hobos [[Contract](https://etherscan.io/address/0xd153f0014db6d1f339c6340d2c9f59214355d9d7#code)] ([Website](https://cryptohobos.io/)) ([Opensea](https://opensea.io/collection/crypto-hobos))
 * Jungle Freaks [[Contract](https://etherscan.io/address/0x7e6bc952d4b4bd814853301bee48e99891424de0#code)] ([Opensea](https://opensea.io/collection/jungle-freaks-by-trosley))
-* Pettametti [[Contract](https://etherscan.io/address/0x52474fbf6b678a280d0c69f2314d6d95548b3daf#code)] ([Opensea](https://opensea.io/collection/pettametti))
 * Pumpametti [[Contract](https://etherscan.io/address/0x09646c5c1e42ede848a57d6542382c32f2877164#code)] ([Opensea](https://opensea.io/collection/pumpametti))
 * Standametti [[Contract](https://etherscan.io/address/0xfc6bc5d50912354e89bad4dabf053bca2d7cd817#code)] ([Opensea](https://opensea.io/collection/standametti))
 * Surreals [[Contract](https://etherscan.io/address/0xa406489360a47af2c74fc1004316a64e469646a5#code)] ([Website](https://surreals.io/)) ([Opensea](https://opensea.io/collection/official-surreals))
@@ -138,6 +138,11 @@ Disclaimer: we want to keep this listing below as inclusive as possible. This me
 * Museum - The White Room ([Website](https://www.museum-refined.art/)) ([Opensea](https://opensea.io/collection/museum-the-white-room))
 * NFT Worlds [[Contract](https://etherscan.io/address/0xbd4455da5929d5639ee098abfaa3241e9ae111af#code)] ([Website](https://www.nftworlds.com/)) ([Opensea](https://opensea.io/collection/nft-worlds))
 * Template [[Contract](https://etherscan.io/address/0x3a0335409a0becd0da1ff6e442b9b6874d4e87a1#code)] ([Website](https://www.template.wtf/)) ([Opensea](https://opensea.io/collection/template))
+
+## Pet Collection NFTs
+
+* KingFrogs ([Opensea](https://opensea.io/collection/kingfrogs))
+* Pettametti [[Contract](https://etherscan.io/address/0x52474fbf6b678a280d0c69f2314d6d95548b3daf#code)] ([Opensea](https://opensea.io/collection/pettametti))
 
 ## Punk NFTs
 
